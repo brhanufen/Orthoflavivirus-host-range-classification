@@ -1,0 +1,31 @@
+species,n_new_genomes,proposed_label,category,confidence,final_decision,rationale
+Murray Valley encephalitis virus,10,dual_host,MBF,high,dual_host,"Mosquito-borne encephalitic flavivirus, JEV serogroup"
+Kunjin virus,8,dual_host,MBF,high,dual_host,"WNV subtype (Kunjin), mosquito-borne"
+Wesselsbron virus,8,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group; livestock/human"
+Iguape virus,6,dual_host,MBF,high,dual_host,"Mosquito-borne, Aroa group"
+Israel turkey meningoencephalomyelitis virus,6,dual_host,MBF,high,dual_host,"Mosquito-borne, Ntaya group; birds"
+Stratford virus,6,dual_host,MBF,high,dual_host,"Mosquito-borne, Australian (Kokobera group)"
+Koutango virus,5,dual_host,MBF,high,dual_host,"Mosquito/rodent, WNV-related"
+Spondweni virus,5,dual_host,MBF,high,dual_host,"Mosquito-borne, Zika-related"
+Rocio virus,3,dual_host,MBF,high,dual_host,"Mosquito-borne encephalitis, Ntaya group"
+Sepik virus,3,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group"
+Aroa virus,2,dual_host,MBF,high,dual_host,"Mosquito-borne, Aroa group"
+Banzi virus,2,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group"
+Kokobera virus,2,dual_host,MBF,high,dual_host,"Mosquito-borne, Australian"
+Bainyik virus,1,dual_host,MBF,medium,dual_host,"Mosquito-borne, YFV group (Papua)"
+Bouboui virus,1,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group"
+Edge Hill virus,1,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group, Australian"
+New Mapoon virus,1,dual_host,MBF,medium,dual_host,"Australian, Kokobera group"
+Torres virus,1,dual_host,MBF,medium,dual_host,"Australian, Kokobera group"
+Uganda S virus,1,dual_host,MBF,high,dual_host,"Mosquito-borne, YFV group"
+Alkhumra hemorrhagic fever virus,9,dual_host,TBF,high,dual_host,Tick-borne (KFDV-related)
+Powassan virus,9,dual_host,TBF,high,dual_host,"Tick-borne encephalitis, N. America"
+Karshi virus,4,dual_host,TBF,high,dual_host,"Tick-borne, mammalian TBE group"
+Kyasanur Forest disease virus,4,dual_host,TBF,high,dual_host,"Tick-borne, TBE serogroup; human hemorrhagic fever"
+Tyuleniy virus,3,dual_host,TBF,high,dual_host,"Tick-borne (seabird ticks), TBE seabird group"
+Deer tick virus,2,dual_host,TBF,high,dual_host,"Powassan lineage 2, tick-borne"
+Saumarez Reef virus,2,dual_host,TBF,high,dual_host,Tick-borne (seabird ticks)
+Meaban virus,1,dual_host,TBF,high,dual_host,Tick-borne (seabird ticks)
+Royal Farm virus,1,dual_host,TBF,high,dual_host,"Tick-borne, Karshi-related"
+Fitzroy River virus,1,dual_host,MBF,high,dual_host,Johansen et al. 2017 (Emerg Infect Dis 23:1289-99): vertebrate replication + serosurvey antibodies (horse/cattle/human); mosquito-borne (Sepik/Wesselsbron clade).
+Gadgets Gully virus,1,dual_host,TBF,high,dual_host,"TBE serogroup, Ixodes tick / seabird host; consistent with Meaban/Saumarez Reef/Tyuleniy dual_host set."

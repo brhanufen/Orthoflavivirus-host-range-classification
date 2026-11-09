@@ -1,0 +1,54 @@
+species,mean_prob_dual,std_prob_dual,n_genomes,true_label,accuracy,host_type,predicted_label,species_correct
+sabethes flavivirus,6.7144228339977946e-09,,1,0,1.0,ISFV,0,True
+la tina virus,1.9030352320957508e-08,,1,0,1.0,ISFV,0,True
+culex theileri flavivirus,2.3502048111279195e-06,0.0,2,0,1.0,ISFV,0,True
+cell fusing agent virus,6.591424264358537e-06,1.4066049853858544e-06,8,0,1.0,ISFV,0,True
+parramatta river virus,1.5395917983604883e-05,9.500192576635825e-06,2,0,1.0,ISFV,0,True
+anopheles flavivirus variant 1,1.91570214291724e-05,0.0,2,0,1.0,ISFV,0,True
+aedes flavivirus,2.57627486733084e-05,1.5069334495644568e-05,10,0,1.0,ISFV,0,True
+kilpisjarvi flavivirus,4.533035862781652e-05,,1,0,1.0,ISFV,0,True
+mercadeo virus,4.594262860625678e-05,1.1014912225356495e-05,3,0,1.0,ISFV,0,True
+anopheles flavivirus variant 2,5.6008098841914555e-05,,1,0,1.0,ISFV,0,True
+culex flavivirus,0.0001318591234649935,0.00011128751774319357,37,0,1.0,ISFV,0,True
+ochlerotatus scapularis flavivirus,0.00017037928147463287,,1,0,1.0,ISFV,0,True
+mosquito flavivirus,0.0002160638512950905,6.201910516915803e-05,6,0,1.0,ISFV,0,True
+quang binh virus,0.0003944570862040517,0.0003579146133752786,14,0,1.0,ISFV,0,True
+marisma mosquito virus,0.0008680793460084259,,1,0,1.0,ISFV,0,True
+mansonia flavivirus,0.0009545598438131524,,1,0,1.0,ISFV,0,True
+culiseta flavivirus,0.0028575997430461187,0.0,2,0,1.0,ISFV,0,True
+donggang virus,0.004640145584031229,0.000416549355284665,2,0,1.0,ISFV,0,True
+kampung karu virus,0.011837607468714708,0.0,2,0,1.0,ISFV,0,True
+xishuangbanna aedes flavivirus,0.02198549234437728,0.0,2,0,1.0,ISFV,0,True
+psorophora flavivirus,0.02602567406228529,0.0019069111691896237,2,0,1.0,ISFV,0,True
+menghai flavivirus,0.10302149539420899,0.0,2,0,1.0,ISFV,0,True
+chaoyang virus,0.6332533924515658,0.11228106531564547,2,0,0.0,ISFV,1,False
+t ho virus,0.9999109784693978,0.0,2,0,0.0,ISFV,1,False
+nienokoue virus,0.014333775007074596,,1,1,0.0,Dual-host,0,False
+sitiawan virus,0.7757534098578887,,1,1,1.0,Dual-host,1,True
+saruyama virus,0.9163673737418025,,1,1,1.0,Dual-host,1,True
+stratford virus,0.9384851937365051,,1,1,1.0,Dual-host,1,True
+ntaya virus,0.9567662920666468,,1,1,1.0,Dual-host,1,True
+west nile virus,0.976339750223552,0.04164737988258731,6,1,1.0,Dual-host,1,True
+cacipacore virus,0.9823987458023756,,1,1,1.0,Dual-host,1,True
+yellow fever virus,0.9843468205067949,0.01658220001193018,74,1,1.0,Dual-host,1,True
+tembusu virus,0.985454656837907,0.030732076688530424,8,1,1.0,Dual-host,1,True
+ilheus virus,0.9873825235454778,0.002877880820784459,11,1,1.0,Dual-host,1,True
+zika virus,0.9875816524912032,0.011142385354792787,7,1,1.0,Dual-host,1,True
+naranjal virus,0.9907933521990328,,1,1,1.0,Dual-host,1,True
+mpulungu flavivirus,0.9947284936683006,,1,1,1.0,Dual-host,1,True
+alpine chamois encephalitis virus,0.9955041589085659,3.8524939528037264e-05,2,1,1.0,Dual-host,1,True
+japanese encephalitis virus,0.9973843255312982,,1,1,1.0,Dual-host,1,True
+duck egg drop syndrome virus,0.9978725529742588,0.0005457160423614302,7,1,1.0,Dual-host,1,True
+usutu virus,0.9988799822861341,,1,1,1.0,Dual-host,1,True
+alfuy virus,0.9991672986063873,,1,1,1.0,Dual-host,1,True
+tick borne encephalitis virus,0.9995643132746329,0.0006798281448859463,3,1,1.0,Dual-host,1,True
+dengue virus type 4,0.9997023665981002,0.0002835691259778154,77,1,1.0,Dual-host,1,True
+omsk hemorrhagic fever virus,0.9997271379654554,1.26033555444383e-05,3,1,1.0,Dual-host,1,True
+bagaza virus,0.9998489407225905,0.0,2,1,1.0,Dual-host,1,True
+dengue virus type 1,0.9998705072412434,0.00014364361453992542,277,1,1.0,Dual-host,1,True
+dengue virus type 2,0.9998718906916656,0.0004428826407301663,408,1,1.0,Dual-host,1,True
+dengue virus type 3,0.9999284409973486,5.074582311436724e-05,275,1,1.0,Dual-host,1,True
+spanish goat encephalitis virus,0.9999836259944836,0.0,2,1,1.0,Dual-host,1,True
+louping ill virus,0.9999878098483297,,1,1,1.0,Dual-host,1,True
+langat virus,0.9999922762898925,3.567837009083089e-07,2,1,1.0,Dual-host,1,True
+kedougou virus,0.9999961664870213,0.0,2,1,1.0,Dual-host,1,True

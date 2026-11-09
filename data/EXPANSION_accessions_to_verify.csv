@@ -1,0 +1,246 @@
+accession,species_key,host_range_label,vector_type,split
+OQ915866.1,aedes flavivirus,invertebrate_only,invertebrate,train
+LC536088.1,aedes flavivirus,invertebrate_only,invertebrate,train
+PZ303603.1,aedes flavivirus,invertebrate_only,invertebrate,train
+LC775064.1,aedes flavivirus,invertebrate_only,invertebrate,train
+JF416961.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416965.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416963.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416954.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416957.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416955.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416952.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+JF416953.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+OP037813.1,alkhumra hemorrhagic fever virus,dual_host,tick-borne,test
+MZ358890.1,aripo virus,invertebrate_only,invertebrate,train
+PZ305741.1,aroa virus,dual_host,mosquito-borne,test
+AY632536.4,aroa virus,dual_host,mosquito-borne,test
+KM225264.1,bainyik virus,dual_host,mosquito-borne,train
+NC_043110.1,banzi virus,dual_host,mosquito-borne,val
+PZ305742.1,banzi virus,dual_host,mosquito-borne,val
+KC496020.1,barkedji virus,invertebrate_only,invertebrate,val
+MG214905.1,barkedji virus,invertebrate_only,invertebrate,val
+MG214906.1,barkedji virus,invertebrate_only,invertebrate,val
+LC497470.1,barkedji virus,invertebrate_only,invertebrate,val
+EU078325.1,barkedji virus,invertebrate_only,invertebrate,val
+MG587038.1,binjari virus,invertebrate_only,invertebrate,val
+DQ859057.1,bouboui virus,dual_host,mosquito-borne,train
+KX669689.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669688.1,calbertado virus,invertebrate_only,invertebrate,test
+MW434106.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669686.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669682.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669683.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669687.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669685.1,calbertado virus,invertebrate_only,invertebrate,test
+KX669684.1,calbertado virus,invertebrate_only,invertebrate,test
+OQ915547.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OQ915546.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OQ915543.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694081.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OQ915540.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OR479690.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OR479689.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OR479688.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OR479687.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LC770212.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+OQ915542.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694078.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694077.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694076.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694075.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694074.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694073.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694072.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694079.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR596014.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+MH310082.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+KU936054.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+LR694080.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+PZ762841.1,cell fusing agent virus,invertebrate_only,invertebrate,train
+FJ883471.1,chaoyang virus,invertebrate_only,invertebrate,test
+MW246770.1,chaoyang virus,invertebrate_only,invertebrate,test
+JQ068102.1,chaoyang virus,invertebrate_only,invertebrate,test
+PX213636.1,culex flavivirus,invertebrate_only,invertebrate,train
+KT726939.1,culex flavivirus,invertebrate_only,invertebrate,train
+KX924633.1,culex flavivirus,invertebrate_only,invertebrate,train
+KX657782.1,culex flavivirus,invertebrate_only,invertebrate,train
+KU726615.1,culex flavivirus,invertebrate_only,invertebrate,train
+GQ165808.1,culex flavivirus,invertebrate_only,invertebrate,train
+JX897904.1,culex flavivirus,invertebrate_only,invertebrate,train
+JQ518484.1,culex flavivirus,invertebrate_only,invertebrate,train
+OR479691.1,culex flavivirus,invertebrate_only,invertebrate,train
+OR479692.1,culex flavivirus,invertebrate_only,invertebrate,train
+OR479693.1,culex flavivirus,invertebrate_only,invertebrate,train
+OR479694.1,culex flavivirus,invertebrate_only,invertebrate,train
+OR479695.1,culex flavivirus,invertebrate_only,invertebrate,train
+PX487090.1,culex flavivirus,invertebrate_only,invertebrate,train
+PX487091.1,culex flavivirus,invertebrate_only,invertebrate,train
+LC513839.1,culex flavivirus,invertebrate_only,invertebrate,train
+LC770211.1,culex flavivirus,invertebrate_only,invertebrate,train
+OQ915578.1,culex flavivirus,invertebrate_only,invertebrate,train
+MW434109.1,culex flavivirus,invertebrate_only,invertebrate,train
+MZ972995.1,culex flavivirus,invertebrate_only,invertebrate,train
+MW434108.1,culex flavivirus,invertebrate_only,invertebrate,train
+PX213635.1,culex flavivirus,invertebrate_only,invertebrate,train
+PZ305743.1,culex flavivirus,invertebrate_only,invertebrate,train
+OL700049.1,culex flavivirus,invertebrate_only,invertebrate,train
+MH827522.1,culex flavivirus,invertebrate_only,invertebrate,train
+OQ915579.1,culex flavivirus,invertebrate_only,invertebrate,train
+MW246772.1,culex flavivirus,invertebrate_only,invertebrate,train
+MN318426.1,culex flavivirus,invertebrate_only,invertebrate,train
+MT197496.1,culex flavivirus,invertebrate_only,invertebrate,train
+MZ972996.1,culex flavivirus,invertebrate_only,invertebrate,train
+MW434107.1,culex flavivirus,invertebrate_only,invertebrate,train
+PX666891.1,deer tick virus,dual_host,tick-borne,val
+PX666890.1,deer tick virus,dual_host,tick-borne,val
+MZ357894.1,donggang virus,invertebrate_only,invertebrate,train
+MZ357895.1,donggang virus,invertebrate_only,invertebrate,train
+MZ357898.1,donggang virus,invertebrate_only,invertebrate,train
+MZ357899.1,donggang virus,invertebrate_only,invertebrate,train
+MZ357896.1,donggang virus,invertebrate_only,invertebrate,train
+MZ357897.1,donggang virus,invertebrate_only,invertebrate,train
+DQ859060.1,edge hill virus,dual_host,mosquito-borne,test
+NC_030401.1,hanko virus,invertebrate_only,invertebrate,train
+ON949927.1,hanko virus,invertebrate_only,invertebrate,train
+ON949929.1,hanko virus,invertebrate_only,invertebrate,train
+ON949930.1,hanko virus,invertebrate_only,invertebrate,train
+ON949928.1,hanko virus,invertebrate_only,invertebrate,train
+MN954647.1,hidden valley virus,invertebrate_only,invertebrate,train
+MK332104.2,iguape virus,dual_host,mosquito-borne,val
+AY632538.4,iguape virus,dual_host,mosquito-borne,val
+MK332102.2,iguape virus,dual_host,mosquito-borne,val
+MK332103.3,iguape virus,dual_host,mosquito-borne,val
+MK332105.2,iguape virus,dual_host,mosquito-borne,val
+PZ324379.1,iguape virus,dual_host,mosquito-borne,val
+NC_024805.1,ilomantsi virus,invertebrate_only,invertebrate,val
+KC734551.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+KC734552.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+KC734549.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+KC734550.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+KC734553.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+KF917537.1,israel turkey meningoencephalomyelitis virus,dual_host,mosquito-borne,test
+NC_005064.1,kamiti river virus,invertebrate_only,invertebrate,val
+AY149904.1,kamiti river virus,invertebrate_only,invertebrate,val
+MH688511.1,karshi virus,dual_host,tick-borne,test
+AY863002.1,karshi virus,dual_host,tick-borne,test
+DQ235147.1,karshi virus,dual_host,tick-borne,test
+DQ462443.1,karshi virus,dual_host,tick-borne,test
+NC_035118.1,karumba virus,invertebrate_only,invertebrate,test
+KY460523.1,karumba virus,invertebrate_only,invertebrate,test
+MF352615.1,karumba virus,invertebrate_only,invertebrate,test
+AY632541.4,kokobera virus,dual_host,mosquito-borne,train
+OL347997.1,kokobera virus,dual_host,mosquito-borne,train
+PP489328.1,koutango virus,dual_host,mosquito-borne,val
+EU082200.2,koutango virus,dual_host,mosquito-borne,val
+PP885725.1,koutango virus,dual_host,mosquito-borne,val
+MN057643.1,koutango virus,dual_host,mosquito-borne,val
+OQ067500.1,koutango virus,dual_host,mosquito-borne,val
+KX394394.1,kunjin virus,dual_host,mosquito-borne,test
+KX394398.1,kunjin virus,dual_host,mosquito-borne,test
+KX394386.1,kunjin virus,dual_host,mosquito-borne,test
+KX394391.1,kunjin virus,dual_host,mosquito-borne,test
+KX394388.1,kunjin virus,dual_host,mosquito-borne,test
+KX394405.1,kunjin virus,dual_host,mosquito-borne,test
+KX394392.1,kunjin virus,dual_host,mosquito-borne,test
+KX394395.1,kunjin virus,dual_host,mosquito-borne,test
+PV640908.1,kyasanur forest disease virus,dual_host,tick-borne,train
+PV640911.1,kyasanur forest disease virus,dual_host,tick-borne,train
+PV640932.1,kyasanur forest disease virus,dual_host,tick-borne,train
+PV640910.1,kyasanur forest disease virus,dual_host,tick-borne,train
+PV165523.1,la tina virus,invertebrate_only,invertebrate,train
+FJ606789.2,lammi virus,invertebrate_only,invertebrate,test
+NC_024806.1,lammi virus,invertebrate_only,invertebrate,test
+PP329310.1,lammi virus,invertebrate_only,invertebrate,test
+KY290256.1,long pine key virus,invertebrate_only,invertebrate,test
+KY290254.1,long pine key virus,invertebrate_only,invertebrate,test
+KY290253.1,long pine key virus,invertebrate_only,invertebrate,test
+KY290251.1,long pine key virus,invertebrate_only,invertebrate,test
+KY290250.1,long pine key virus,invertebrate_only,invertebrate,test
+KY290249.1,long pine key virus,invertebrate_only,invertebrate,test
+MZ090957.1,long pine key virus,invertebrate_only,invertebrate,test
+MF139576.1,marisma mosquito virus,invertebrate_only,invertebrate,train
+DQ235144.1,meaban virus,dual_host,tick-borne,val
+AB981186.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+PZ762090.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+PZ761746.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+LC513840.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+OL700075.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+KX652376.1,mosquito flavivirus,invertebrate_only,invertebrate,train
+OQ418712.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+PV539606.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+OQ418721.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+PV539599.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+OQ418723.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+OQ418715.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+OQ418711.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+PV539598.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+OQ418716.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+PV539601.1,murray valley encephalitis virus,dual_host,mosquito-borne,test
+NC_030400.1,nakiwogo virus,invertebrate_only,invertebrate,train
+NC_040610.1,nanay virus,invertebrate_only,invertebrate,test
+KC788512.1,new mapoon virus,dual_host,mosquito-borne,test
+PQ590173.1,nhumirim virus,invertebrate_only,invertebrate,train
+NC_024017.1,nhumirim virus,invertebrate_only,invertebrate,train
+FJ711167.1,nounane virus,invertebrate_only,invertebrate,test
+NC_033715.1,nounane virus,invertebrate_only,invertebrate,test
+NC_034242.1,ochlerotatus caspius flavivirus,invertebrate_only,invertebrate,val
+OQ915760.1,palm creek virus,invertebrate_only,invertebrate,train
+OQ915762.1,palm creek virus,invertebrate_only,invertebrate,train
+OQ915761.1,palm creek virus,invertebrate_only,invertebrate,train
+OQ915759.1,palm creek virus,invertebrate_only,invertebrate,train
+NC_033694.1,palm creek virus,invertebrate_only,invertebrate,train
+PP066163.1,parramatta river virus,invertebrate_only,invertebrate,train
+OP823482.1,powassan virus,dual_host,tick-borne,train
+PQ788268.1,powassan virus,dual_host,tick-borne,train
+OP823479.1,powassan virus,dual_host,tick-borne,train
+PQ788267.1,powassan virus,dual_host,tick-borne,train
+OP823480.1,powassan virus,dual_host,tick-borne,train
+PQ788269.1,powassan virus,dual_host,tick-borne,train
+PQ788270.1,powassan virus,dual_host,tick-borne,train
+OP823481.1,powassan virus,dual_host,tick-borne,train
+OP823483.1,powassan virus,dual_host,tick-borne,train
+OQ915802.1,quang binh virus,invertebrate_only,invertebrate,test
+OQ915806.1,quang binh virus,invertebrate_only,invertebrate,test
+OR479686.1,quang binh virus,invertebrate_only,invertebrate,test
+OP087420.1,quang binh virus,invertebrate_only,invertebrate,test
+OP087419.1,quang binh virus,invertebrate_only,invertebrate,test
+OP087418.1,quang binh virus,invertebrate_only,invertebrate,test
+OR479685.1,quang binh virus,invertebrate_only,invertebrate,test
+OQ915805.1,quang binh virus,invertebrate_only,invertebrate,test
+MW246771.1,quang binh virus,invertebrate_only,invertebrate,test
+PX213637.1,quang binh virus,invertebrate_only,invertebrate,test
+MG719525.1,quang binh virus,invertebrate_only,invertebrate,test
+PV448280.1,rocio virus,dual_host,mosquito-borne,train
+MF461639.1,rocio virus,dual_host,mosquito-borne,train
+AY632542.4,rocio virus,dual_host,mosquito-borne,train
+NC_039219.1,royal farm virus,dual_host,tick-borne,test
+NC_033726.1,saumarez reef virus,dual_host,tick-borne,train
+MW959115.1,saumarez reef virus,dual_host,tick-borne,train
+NC_008719.1,sepik virus,dual_host,mosquito-borne,test
+AY632543.1,sepik virus,dual_host,mosquito-borne,test
+DQ859063.1,sepik virus,dual_host,mosquito-borne,test
+MH829605.1,spondweni virus,dual_host,mosquito-borne,train
+MH829607.1,spondweni virus,dual_host,mosquito-borne,train
+MH829611.1,spondweni virus,dual_host,mosquito-borne,train
+MH829612.1,spondweni virus,dual_host,mosquito-borne,train
+MH829613.1,spondweni virus,dual_host,mosquito-borne,train
+PP496996.1,stratford virus,dual_host,mosquito-borne,train
+PP496993.1,stratford virus,dual_host,mosquito-borne,train
+PP496994.1,stratford virus,dual_host,mosquito-borne,train
+KM225263.1,stratford virus,dual_host,mosquito-borne,train
+PP496992.1,stratford virus,dual_host,mosquito-borne,train
+PP496995.1,stratford virus,dual_host,mosquito-borne,train
+KM225265.1,torres virus,dual_host,mosquito-borne,val
+KT224356.1,tyuleniy virus,dual_host,tick-borne,val
+DQ235148.1,tyuleniy virus,dual_host,tick-borne,val
+NC_023424.1,tyuleniy virus,dual_host,tick-borne,val
+DQ859065.1,uganda s virus,dual_host,mosquito-borne,train
+PP445093.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445083.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445096.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445098.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445099.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445102.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445079.1,wesselsbron virus,dual_host,mosquito-borne,train
+PP445097.1,wesselsbron virus,dual_host,mosquito-borne,train

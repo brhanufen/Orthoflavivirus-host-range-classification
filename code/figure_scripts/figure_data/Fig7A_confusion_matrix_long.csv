@@ -1,0 +1,17 @@
+True_Class,Predicted_Class,Count,Proportion
+Flavivirus,Flavivirus,1294,0.9961508852963818
+Flavivirus,Hepacivirus,3,0.0023094688221709007
+Flavivirus,Pegivirus,0,0.0
+Flavivirus,Pestivirus,2,0.001539645881447267
+Hepacivirus,Flavivirus,1,0.000715307582260372
+Hepacivirus,Hepacivirus,1395,0.9978540772532188
+Hepacivirus,Pegivirus,2,0.001430615164520744
+Hepacivirus,Pestivirus,0,0.0
+Pegivirus,Flavivirus,0,0.0
+Pegivirus,Hepacivirus,5,0.03875968992248062
+Pegivirus,Pegivirus,124,0.9612403100775194
+Pegivirus,Pestivirus,0,0.0
+Pestivirus,Flavivirus,3,0.004862236628849271
+Pestivirus,Hepacivirus,1,0.0016207455429497568
+Pestivirus,Pegivirus,0,0.0
+Pestivirus,Pestivirus,613,0.993517017828201

@@ -1,0 +1,4 @@
+Feature,Dual_host_mean,Note
+CpG_OE,0.427,Strong CpG suppression
+gc_content,46.9,Lower than ISFV
+genome_length,10736.0,Slightly shorter

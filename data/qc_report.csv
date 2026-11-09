@@ -1,0 +1,174 @@
+accession,organism,length,ambiguous_frac,title,qc_pass,qc_reason,is_representative,duplicate_of,retained
+PX213636.1,Culex flavivirus,10831,0.0,"Culex flavivirus strain SZLG36880, complete genome",True,,True,,True
+PX213635.1,Culex flavivirus,10825,0.0,"Culex flavivirus strain SZNS23312, complete genome",True,,True,,True
+PZ761990.1,Culex flavivirus,10857,0.0,MAG: Culex flavivirus isolate CAR415 sequence,True,;broken_ORF(<3000codons),True,,False
+PZ305743.1,Culex flavivirus,10837,0.0001,"Culex flavivirus strain HOU24518, complete genome",True,,True,,True
+OQ915579.1,Culex flavivirus,10814,0.0,MAG: Culex flavivirus isolate F1432F1433 genomic sequence,True,,True,,True
+OQ915578.1,Culex flavivirus,10820,0.0,MAG: Culex flavivirus isolate F1432 genomic sequence,True,,True,,True
+PX487091.1,Culex flavivirus,10593,0.0019,UNVERIFIED: Culex flavivirus clone Culex_flav_VN6831CPR1 sequence,True,,True,,True
+PX487090.1,Culex flavivirus,10719,0.0024,UNVERIFIED: Culex flavivirus clone Culex_fla_VN6477CPR1 sequence,True,,True,,True
+PV585548.1,Culex flavivirus,9323,0.0,"MAG: Culex flavivirus isolate Aswan_CPC_Pool1, partial genome",False,length<10000(9323),False,,False
+OR479695.1,Culex flavivirus,10783,0.0,"Culex flavivirus strain Cbr5 polyprotein gene, complete cds",True,,True,,True
+OR479694.1,Culex flavivirus,10825,0.0,"Culex flavivirus strain Cqu1 polyprotein gene, complete cds",True,,True,,True
+OR479693.1,Culex flavivirus,10774,0.0,"Culex flavivirus strain Cqu30 polyprotein gene, complete cds",True,,True,,True
+OR479692.1,Culex flavivirus,10837,0.0,"Culex flavivirus strain Cv21 polyprotein gene, complete cds",True,,True,,True
+OR479691.1,Culex flavivirus,10782,0.0,"Culex flavivirus strain Cv10 polyprotein gene, complete cds",True,,True,,True
+LC770211.1,Culex flavivirus,10092,0.0,"Culex flavivirus zmq12nam-3 gene for polyprotein, complete cds",True,,True,,True
+OL700049.1,Culex flavivirus,10757,0.0,"MAG: Culex flavivirus isolate XY41232 polyprotein gene, partial cds",True,,True,,True
+MZ972996.1,Culex flavivirus,10177,0.0,"Culex flavivirus strain Macapa_06 polyprotein gene, complete cds",True,,True,,True
+MZ972995.1,Culex flavivirus,10177,0.0,"Culex flavivirus strain Macapa_05 polyprotein gene, complete cds",True,,True,,True
+MW434109.1,Culex flavivirus,10796,0.0,MAG: Culex flavivirus isolate CMS002_049a_PLCR genomic sequence,True,,True,,True
+MW434108.1,Culex flavivirus,10824,0.0,MAG: Culex flavivirus isolate CMS001_044_ALCO genomic sequence,True,,True,,True
+MW434107.1,Culex flavivirus,10946,0.0,MAG: Culex flavivirus isolate CMS001_029_ALCO genomic sequence,True,,True,,True
+MW246772.1,Culex flavivirus,10799,0.0,"Culex flavivirus strain JS,JA_A4_18-9E-SJ-Cxp-Y-1-1 polyprotein gene, complete cds",True,,True,,True
+MN318426.1,Culex flavivirus,10799,0.0,"Culex flavivirus strain PA3_17-6E-P-Cxp-C-1-3 polyprotein gene, complete cds",True,,True,,True
+MT197496.1,Culex flavivirus,10159,0.0014,"UNVERIFIED: Culex flavivirus strain 111, complete genome",True,,True,,True
+LC513839.1,Culex flavivirus,10745,0.0,"Culex flavivirus 17CxNGK-Ctr-C6P2 gene for polyprotein, complete cds",True,,True,,True
+MH827522.1,Culex flavivirus,10467,0.0,"Culex flavivirus isolate GD13124/China/2013, partial genome",True,,True,,True
+KX512322.1,Culex flavivirus,9834,0.0,"Culex flavivirus strain NM1 polyprotein gene, partial cds",False,length<10000(9834),False,,False
+KT726939.1,Culex flavivirus,10706,0.0,"Culex flavivirus isolate BR_SJRP_01_2012 polyprotein gene, complete cds",True,,True,,True
+KX924633.1,Culex flavivirus,10469,0.0,"Culex flavivirus strain Mos102 polyprotein gene, partial cds",True,,True,,True
+KX924632.1,Culex flavivirus,10011,0.0,"Culex flavivirus strain 93C0 polyprotein gene, partial cds",True,;broken_ORF(<3000codons),True,,False
+KX657782.1,Culex flavivirus,10710,0.0,"Culex flavivirus strain UWB1, partial genome",True,,True,,True
+KU726615.1,Culex flavivirus,10092,0.0,"Culex flavivirus isolate Otero 2009 polyprotein gene, complete cds",True,,True,,True
+GQ165808.1,Culex flavivirus,10089,0.0,"Culex flavivirus strain Uganda08 polyprotein gene, partial cds",True,,True,,True
+JX897904.1,Culex flavivirus,10089,0.0,"Culex flavivirus strain TW100322 polyprotein gene, partial cds",True,,True,,True
+JQ518484.1,Culex flavivirus,10089,0.0,"Culex flavivirus strain SDDM06-11 polyprotein gene, partial cds",True,,True,,True
+PZ303603.1,Aedes flavivirus,11064,0.0,"Aedes flavivirus strain AEFV-SPFLD-MO-2011-MP6, complete genome",True,,True,,True
+OQ915866.1,Aedes flavivirus,11091,0.0,MAG: Aedes flavivirus isolate F1161 genomic sequence,True,,True,,True
+LC775064.1,Aedes flavivirus,10045,0.0,"Aedes flavivirus AeAl-2/AEFV gene for polyprotein, complete cds",True,,True,,True
+LC536088.1,Aedes flavivirus,11072,0.0,Aedes flavivirus AEFV/MQ/29/Bogor/2017 gene for polyprotein complete cds,True,,True,,True
+MK251047.1,Aedes flavivirus,9931,0.0,"Aedes flavivirus strain KRD32 polyprotein gene, partial cds",False,length<10000(9931),False,,False
+PX213637.1,Quang Binh virus,10851,0.0,"Quang Binh virus strain SZBA46110, complete genome",True,,True,,True
+PZ762090.1,Mosquito flavivirus,10879,0.0,MAG: Mosquito flavivirus isolate CAM515 sequence,True,,True,,True
+PZ761746.1,Mosquito flavivirus,10854,0.0,MAG: Mosquito flavivirus isolate CAM171 sequence,True,,True,,True
+OQ915806.1,Quang Binh virus,10712,0.0091,MAG: Quang Binh virus isolate F1449F1466 genomic sequence,True,,True,,True
+OQ915805.1,Quang Binh virus,10786,0.0034,MAG: Quang Binh virus isolate F1449 genomic sequence,True,,True,,True
+OQ915804.1,Quang Binh virus,10791,0.0189,MAG: Quang Binh virus isolate F1449F1110 genomic sequence,False,ambiguous=0.019,False,,False
+OQ915803.1,Quang Binh virus,10768,0.0136,MAG: Quang Binh virus isolate F1449F1108 genomic sequence,False,ambiguous=0.014,False,,False
+OQ915802.1,Quang Binh virus,10775,0.0,MAG: Quang Binh virus isolate F1407 genomic sequence,True,,True,,True
+OR479686.1,Quang Binh virus,10785,0.0,"Quang Binh virus strain Cg2 polyprotein gene, complete cds",True,,True,,True
+OR479685.1,Quang Binh virus,10080,0.0,"Quang Binh virus strain Cg1 polyprotein gene, complete cds",True,,True,,True
+OP087420.1,Quang Binh virus,10767,0.0,"Quang Binh virus isolate 21-9-YY-CXT-3 polyprotein gene, complete cds",True,,True,,True
+OP087419.1,Quang Binh virus,10798,0.0,"Quang Binh virus isolate 21-7-SY-CXT-18 polyprotein gene, complete cds",True,,True,,True
+OP087418.1,Quang Binh virus,10796,0.0,"Quang Binh virus isolate 21-7-NF1-CXT-11 polyprotein gene, complete cds",True,,True,,True
+OL700075.1,Mosquito flavivirus,10813,0.0,"MAG: Mosquito flavivirus isolate XY107097 polyprotein gene, complete cds",True,,True,,True
+MW246771.1,Quang Binh virus,10785,0.0,"Quang Binh virus strain JS,JA_H6_18-10E-JS-Cxt-C-2-1 polyprotein gene, complete cds",True,,True,,True
+LC513840.1,Mosquito flavivirus,10790,0.0,"Mosquito flavivirus 17CxNGK-Ctr-C6P3 gene for polyprotein, complete cds",True,,True,,True
+MG719525.1,Quang Binh virus,10080,0.0,"Quang Binh virus isolate DD1716 polyprotein gene, complete cds",True,,True,,True
+KX652376.1,Mosquito flavivirus,10449,0.0,"Mosquito flavivirus isolate 94_02, partial genome",True,,True,,True
+AB981186.1,Mosquito flavivirus,10863,0.0,"Mosquito flavivirus gene for polyprotein, complete cds, strain: YDFV/Oct/2013",True,,True,,True
+MZ357899.1,Donggang virus,10866,0.0,"Donggang virus isolate 3.1-102, complete genome",True,,True,,True
+MZ357898.1,Donggang virus,10796,0.0,"Donggang virus isolate 5.82-107, complete genome",True,,True,,True
+MZ357897.1,Donggang virus,10780,0.0,"Donggang virus isolate 5.1-81, complete genome",True,,True,,True
+MZ357896.1,Donggang virus,10871,0.0,"Donggang virus isolate 5-3, complete genome",True,,True,,True
+MZ357895.1,Donggang virus,10877,0.0,"Donggang virus isolate 3, complete genome",True,,True,,True
+MZ357894.1,Donggang virus,10785,0.0,"Donggang virus isolate 5, complete genome",True,,True,,True
+MW246770.1,Chaoyang virus,10679,0.0,"Chaoyang virus strain NM,JA_F7_18-8L-NH-Cxp-Y-2-1 polyprotein gene, complete cds",True,,True,,True
+JQ068102.1,Chaoyang virus,10308,0.0,"Chaoyang virus strain ROK144 polyprotein gene, complete cds",True,,True,,True
+FJ883471.1,Chaoyang virus,10308,0.0,"Chaoyang virus strain Deming polyprotein gene, complete cds",True,,True,,True
+PZ762841.1,Cell fusing agent virus,10709,0.0,MAG: Cell fusing agent virus isolate CAR1265 sequence,True,,True,,True
+OQ915547.1,Cell fusing agent virus,10715,0.0,MAG: Cell fusing agent virus isolate F1335 genomic sequence,True,,True,,True
+OQ915546.1,Cell fusing agent virus,10561,0.0004,MAG: Cell fusing agent virus isolate F1335F1084 genomic sequence,True,,True,,True
+OQ915545.1,Cell fusing agent virus,10142,0.3354,MAG: Cell fusing agent virus isolate F1335F1068 genomic sequence,False,ambiguous=0.335,False,,False
+OQ915544.1,Cell fusing agent virus,10456,0.1,MAG: Cell fusing agent virus isolate F1335F1065 genomic sequence,False,ambiguous=0.100,False,,False
+OQ915543.1,Cell fusing agent virus,10679,0.0,MAG: Cell fusing agent virus isolate F1335F1061 genomic sequence,True,,True,,True
+OQ915542.1,Cell fusing agent virus,10527,0.0019,MAG: Cell fusing agent virus isolate F1335F1059 genomic sequence,True,,True,,True
+OQ915540.1,Cell fusing agent virus,10674,0.0,MAG: Cell fusing agent virus isolate F1335F1058 genomic sequence,True,,True,,True
+OR479690.1,Cell fusing agent virus,10686,0.0,"Cell fusing agent virus strain Ae11 polyprotein gene, complete cds",True,,True,,True
+OR479689.1,Cell fusing agent virus,10026,0.0,"Cell fusing agent virus strain Ae10 polyprotein gene, complete cds",True,,True,,True
+OR479688.1,Cell fusing agent virus,10695,0.0,"UNVERIFIED: Cell fusing agent virus strain Ae9 polyprotein-like gene, complete sequence",True,,True,,True
+OR479687.1,Cell fusing agent virus,10026,0.0,"Cell fusing agent virus strain Ae6 polyprotein gene, complete cds",True,,True,,True
+LC770212.1,Cell fusing agent virus,10026,0.0,"Cell fusing agent virus zmq15Lus2-2 gene for polyprotein, complete cds",True,,True,,True
+OQ305237.1,Cell fusing agent virus,10651,0.0328,"MAG: Cell fusing agent virus isolate KLF47 polyprotein gene, complete cds",False,ambiguous=0.033,False,,False
+LR694081.1,Cell fusing agent virus,10443,0.0,"Cell fusing agent virus partial polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate Guadeloupe",True,,True,,True
+LR694080.1,Cell fusing agent virus,10682,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate mof2522",True,,True,,True
+LR694078.1,Cell fusing agent virus,10696,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate PP",True,,True,,True
+LR694077.1,Cell fusing agent virus,10696,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate KC",True,,True,,True
+LR694076.1,Cell fusing agent virus,10696,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate Zik",True,,True,,True
+LR694075.1,Cell fusing agent virus,10684,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate Cairns",True,,True,,True
+LR694074.1,Cell fusing agent virus,10659,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate Bangkok",True,,True,,True
+LR694073.1,Cell fusing agent virus,10677,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate FL-05-MOS",True,,True,,True
+LR694072.1,Cell fusing agent virus,10693,0.0,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate FL-08-MOS",True,,True,,True
+LR694079.1,Cell fusing agent virus,10681,0.0002,"Cell fusing agent virus polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate mosq395",True,,True,,True
+LR596014.1,Cell fusing agent virus,10696,0.0,"Cell fusing agent virus Polyprotein gene for polyprotein, C-prM-E-NS1-NS2A-NS2B-NS3-NS4A-NS4B-NS5 region, isolate KPP",True,,True,,True
+MH310082.1,Cell fusing agent virus,10067,0.0,"Cell fusing agent virus isolate CC_A_CFAV polyprotein gene, partial cds",True,,True,,True
+KU936054.1,Cell fusing agent virus,10676,0.0,"Cell fusing agent virus strain Aag2 Bristol polyprotein gene, complete cds",True,,True,,True
+GQ165810.1,Cell fusing agent virus,9765,0.0,"Cell fusing agent virus strain Rio Piedras02 polyprotein gene, partial cds",False,length<10000(9765),False,,False
+KJ476731.1,Cell fusing agent virus,9555,0.0,"Cell fusing agent virus isolate Mex AR269 polyprotein gene, partial cds",False,length<10000(9555),False,,False
+PZ357688.1,Parramatta River virus,8380,0.0,"Parramatta River virus isolate mosPPRV polyprotein gene, partial cds",False,length<10000(8380),False,,False
+PP066163.1,Parramatta River virus,10896,0.0,"Parramatta River virus isolate mosPPEE, complete genome",True,,True,,True
+PV165523.1,La Tina virus,10050,0.0,"La Tina virus isolate LHYW, complete genome",True,,True,,True
+MF139576.1,Marisma mosquito virus,10848,0.0,"Marisma mosquito virus strain HU4528/07, complete genome",True,,True,,True
+MW434106.1,Calbertado virus,10763,0.0,MAG: Calbertado virus isolate CMS001_032_ALCO genomic sequence,True,,True,,True
+KX669689.1,Calbertado virus,10733,0.0003,"Calbertado virus isolate CALper polyprotein gene, complete cds",True,,True,,True
+KX669688.1,Calbertado virus,10734,0.0,"Calbertado virus isolate 44-13 polyprotein gene, complete cds",True,,True,,True
+KX669687.1,Calbertado virus,10717,0.0,"Calbertado virus isolate 4a2 polyprotein gene, complete cds",True,,True,,True
+KX669686.1,Calbertado virus,10719,0.0,"Calbertado virus isolate 42-15 polyprotein gene, complete cds",True,,True,,True
+KX669685.1,Calbertado virus,10731,0.0,"Calbertado virus isolate SK-90 polyprotein gene, complete cds",True,,True,,True
+KX669684.1,Calbertado virus,10734,0.0,"Calbertado virus isolate SK-43 polyprotein gene, complete cds",True,,True,,True
+KX669683.1,Calbertado virus,10736,0.0,"Calbertado virus isolate 42-81 polyprotein gene, complete cds",True,,True,,True
+KX669682.1,Calbertado virus,10749,0.0,"Calbertado virus isolate Cal_mos_2 polyprotein gene, complete cds",True,,True,,True
+MZ090957.1,Long Pine Key virus,10837,0.0,"Long Pine Key virus strain Sabal-1/2019, complete genome",True,,True,,True
+KY290256.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 5-72 polyprotein gene, complete cds",True,,True,,True
+KY290255.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 5-61 polyprotein gene, complete cds",True,,False,KY290256.1,False
+KY290254.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 2-86 polyprotein gene, complete cds",True,,True,,True
+KY290253.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 2-81 polyprotein gene, complete cds",True,,True,,True
+KY290252.1,Long Pine Key virus,9993,0.0,"Long Pine Key virus strain EVG 2-30 polyprotein gene, complete cds",False,length<10000(9993),False,,False
+KY290251.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 2-28 polyprotein gene, complete cds",True,,True,,True
+KY290250.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 1-42 polyprotein gene, complete cds",True,,True,,True
+KY290249.1,Long Pine Key virus,10380,0.0,"Long Pine Key virus strain EVG 1-33 polyprotein gene, complete cds",True,,True,,True
+OQ915762.1,Palm Creek virus,10580,0.0,MAG: Palm Creek virus isolate F1616 genomic sequence,True,,True,,True
+OQ915761.1,Palm Creek virus,10704,0.0,MAG: Palm Creek virus isolate F1392F1551 genomic sequence,True,,True,,True
+OQ915760.1,Palm Creek virus,10725,0.0,MAG: Palm Creek virus isolate F1392 genomic sequence,True,,True,,True
+OQ915759.1,Palm Creek virus,10711,0.0,MAG: Palm Creek virus isolate F1392F1225 genomic sequence,True,,True,,True
+NC_033694.1,Palm Creek virus,10095,0.0,"Palm Creek virus isolate 56 polyprotein gene, complete cds",True,,True,,True
+KT192550.1,Palm Creek virus,9729,0.0007,"Palm Creek virus isolate K71061 polyprotein precursor, gene, partial cds",False,length<10000(9729),False,,False
+KC505248.1,Palm Creek virus,10095,0.0,"Palm Creek virus isolate 56 polyprotein gene, complete cds",True,,False,NC_033694.1,False
+ON949930.1,Hanko virus,10848,0.0,"MAG: Hanko virus isolate FIN/U-2018/97, complete genome",True,,True,,True
+ON949929.1,Hanko virus,10866,0.0,"MAG: Hanko virus isolate FIN/U-2018/96, complete genome",True,,True,,True
+ON949928.1,Hanko virus,10825,0.0,"MAG: Hanko virus isolate FIN/U-2018/95, complete genome",True,,True,,True
+ON949927.1,Hanko virus,10890,0.0,"MAG: Hanko virus isolate FIN/U-2018/94, complete genome",True,,True,,True
+NC_030401.1,Hanko virus,10158,0.0,"Hanko virus polyprotein gene, complete cds",True,,True,,True
+JQ268258.1,Hanko virus,10158,0.0,"Hanko virus polyprotein gene, complete cds",True,,False,NC_030401.1,False
+EU078325.1,Barkedji virus,10582,0.0,"Barkedji virus isolate ArD86177 polyprotein gene, partial cds",True,,True,,True
+LC497470.1,Barkedji virus,10899,0.0,"Barkedji virus zmq17L31 RNA, complete genome",True,,True,,True
+MG214906.1,Barkedji virus,10693,0.0,"Barkedji virus strain SQU38/Oman/2016, complete genome",True,,True,,True
+MG214905.1,Barkedji virus,10693,0.0,"Barkedji virus strain SQU29/Oman/2016, complete genome",True,,True,,True
+KC496020.1,Barkedji virus,10588,0.0,"Barkedji virus isolate 363/11 polyprotein gene, partial cds",True,,True,,True
+PP329310.1,Lammi virus,10688,0.0,"Lammi virus isolate KHAM-T22912, complete genome",True,,True,,True
+NC_024806.1,Lammi virus,10320,0.0001,"Lammi virus isolate M0719 polyprotein gene, complete cds",True,,True,,True
+FJ606789.2,Lammi virus,10727,0.0,"Lammi virus polyprotein gene, complete cds",True,,True,,True
+KC692068.1,Lammi virus,10320,0.0001,"Lammi virus isolate M0719 polyprotein gene, complete cds",True,,False,NC_024806.1,False
+NC_035118.1,Karumba virus,10646,0.0,"Karumba virus isolate KRBV 1892, complete genome",True,,True,,True
+MF352615.1,Karumba virus,10029,0.0003,"Karumba virus isolate KRBV Kim1 polyprotein gene, complete cds",True,,True,,True
+KY460523.1,Karumba virus,10026,0.0002,"Karumba virus isolate KRBV WBay2 polyprotein gene, partial cds",True,,True,,True
+KY460522.1,Karumba virus,10646,0.0,"Karumba virus isolate KRBV 1892, complete genome",True,,False,NC_035118.1,False
+NC_034242.1,Ochlerotatus caspius flavivirus,10370,0.0,"Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds",True,,True,,True
+KY345399.1,Ochlerotatus caspius flavivirus,10370,0.0,"Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds",True,,False,NC_034242.1,False
+HF548540.1,Ochlerotatus caspius flavivirus,9839,0.0,"Ochlerotatus caspius flavivirus partial gene for polyprotein, clone 174",False,length<10000(9839),False,,False
+MN830233.1,Gadgets Gully virus,10792,0.0,"Gadgets Gully virus isolate OTU53.IU9 polyprotein gene, complete cds",True,,True,,True
+NC_033723.1,Gadgets Gully virus,10251,0.0,"Gadgets Gully virus from Australia polyprotein gene, complete cds",True,,True,,True
+DQ235145.1,Gadgets Gully virus,10251,0.0,"Gadgets Gully virus from Australia polyprotein gene, complete cds",True,,False,NC_033723.1,False
+NC_005064.1,Kamiti River virus,11375,0.0,"Kamiti River virus, complete genome",True,,True,,True
+AY149904.1,Kamiti River virus,11375,0.0,"Kamiti River virus isolate SR-75 polyprotein precursor, gene, complete cds",True,,True,,True
+AY149905.1,Kamiti River virus,11375,0.0,"Kamiti River virus isolate SR-82 polyprotein precursor, gene, complete cds",True,,False,NC_005064.1,False
+PQ590173.1,Nhumirim virus,10853,0.0,"Nhumirim virus strain AR855900 polyprotein gene, complete cds",True,,True,,True
+NC_024017.1,Nhumirim virus,10891,0.0,"Nhumirim virus strain BrMS-MQ10, complete genome",True,,True,,True
+KJ210048.1,Nhumirim virus,10891,0.0,"Nhumirim virus strain BrMS-MQ10, complete genome",True,,False,NC_024017.1,False
+NC_033715.1,Nounane virus,10755,0.0004,"Nounane virus polyprotein mRNA, complete cds",True,,True,,True
+FJ711167.1,Nounane virus,10709,0.0,"Nounane virus isolate B31 polyprotein mRNA, complete cds",True,,True,,True
+EU159426.2,Nounane virus,10755,0.0004,"Nounane virus polyprotein mRNA, complete cds",True,,False,NC_033715.1,False
+NC_030400.1,Nakiwogo virus,10122,0.0,"Nakiwogo virus strain Uganda08 polyprotein gene, partial cds",True,,True,,True
+GQ165809.2,Nakiwogo virus,10122,0.0,"Nakiwogo virus strain Uganda08 polyprotein gene, partial cds",True,,False,NC_030400.1,False
+NC_040610.1,Nanay virus,10804,0.0,"Nanay virus strain PRD316/PER/09, complete genome",True,,True,,True
+MF139575.1,Nanay virus,10804,0.0,"Nanay virus strain PRD316/PER/09, complete genome",True,,False,NC_040610.1,False
+NC_024805.1,Ilomantsi virus,10365,0.0,"Ilomantsi virus isolate M0724 polyprotein gene, complete cds",True,,True,,True
+KC692067.1,Ilomantsi virus,10365,0.0,"Ilomantsi virus isolate M0724 polyprotein gene, complete cds",True,,False,NC_024805.1,False
+NC_033725.1,Bamaga virus,10203,0.0,"Bamaga virus isolate CY4270 polyprotein gene, complete cds",True,,True,,True
+KU308380.1,Bamaga virus,10203,0.0,"Bamaga virus isolate CY4270 polyprotein gene, complete cds",True,,False,NC_033725.1,False
+MF352617.1,Haslams Creek virus,9997,0.0003,"Haslams Creek virus isolate HaCV 115734 polyprotein gene, partial cds",False,length<10000(9997),False,,False
+MG587038.1,Binjari virus,10302,0.0,"Binjari virus isolate BFTA20 polyprotein gene, complete cds",True,,True,,True
+MZ358890.1,Aripo virus,10823,0.0,"Aripo virus isolate TR9096, complete genome",True,,True,,True
+KX245154.1,Cuacua virus,9747,0.0,"Cuacua virus isolate MZ2014-Cv polyprotein gene, partial cds",False,length<10000(9747),False,,False
+MN954647.1,Hidden Valley virus,10299,0.0,"Hidden Valley virus isolate OR1076 polyprotein gene, partial cds",True,,True,,True

@@ -1,0 +1,30 @@
+species,n_new_genomes,proposed_label,category,confidence,in_original_dataset,rationale,final_decision
+Gadgets Gully virus,2,dual_host,TBF,high,no,"Reinstated as dual_host for consistency with the other seabird-tick flaviviruses in the set (Meaban, Saumarez Reef, Tyuleniy), all labeled dual_host. TBE serogroup, Ixodes/seabird host.",RECLASSIFIED_dual_host
+Aedes flavivirus,4,invertebrate_only,cISF,high,yes,Aedes-associated cISF (already in dataset),invertebrate_only
+Aripo virus,1,invertebrate_only,cISF,high,no,"Psorophora cISF, Trinidad (Auguste 2015)",invertebrate_only
+Binjari virus,1,invertebrate_only,cISF,high,no,"Aedes cISF, Australia; chimeric vaccine backbone (Hobson-Peters 2019)",invertebrate_only
+Calbertado virus,9,invertebrate_only,cISF,high,no,"Culex cISF, N. America; insect-specific",invertebrate_only
+Cell fusing agent virus,24,invertebrate_only,cISF,high,yes,First-described ISFV (Stollar 1975); Aedes; no vertebrate replication (already in dataset),invertebrate_only
+Culex flavivirus,31,invertebrate_only,cISF,high,yes,"Classical ISFV, Culex-associated; no vertebrate replication (already in dataset)",invertebrate_only
+Hanko virus,5,invertebrate_only,cISF,high,no,"Ochlerotatus cISF, Finland (Huhtamo 2014)",invertebrate_only
+Hidden Valley virus,1,invertebrate_only,cISF,high,no,Australian cISF (Colmant 2017),invertebrate_only
+Kamiti River virus,2,invertebrate_only,cISF,high,no,"Aedes cISF, Kenya (Crabtree/Sang 2003); insect-specific",invertebrate_only
+La Tina virus,1,invertebrate_only,cISF,high,yes,"Aedes cISF, Peru (already in dataset)",invertebrate_only
+Marisma mosquito virus,1,invertebrate_only,cISF,high,yes,"Ochlerotatus cISF, Spain (already in dataset)",invertebrate_only
+Mosquito flavivirus,6,invertebrate_only,cISF,high,yes,cISF (already in dataset),invertebrate_only
+Nakiwogo virus,1,invertebrate_only,cISF,high,no,"Mansonia cISF, Uganda (Cook 2009); insect-specific",invertebrate_only
+Ochlerotatus caspius flavivirus,1,invertebrate_only,cISF,high,no,"cISF, Culex/Ochlerotatus",invertebrate_only
+Palm Creek virus,5,invertebrate_only,cISF,high,no,"Coquillettidia cISF, Australia (Hobson-Peters 2013); insect-specific",invertebrate_only
+Parramatta River virus,1,invertebrate_only,cISF,high,yes,"Aedes vigilax cISF, Australia (already in dataset)",invertebrate_only
+Quang Binh virus,11,invertebrate_only,cISF,high,yes,Culex tritaeniorhynchus ISFV (already in dataset),invertebrate_only
+Chaoyang virus,3,invertebrate_only,dISF,high,yes,dISF; nested in dual-host clade but insect-specific (already in dataset; a paper misclass),invertebrate_only
+Donggang virus,6,invertebrate_only,dISF,high,yes,dISF; insect-specific despite dual-host affiliation (already in dataset; a paper misclass),invertebrate_only
+Lammi virus,3,invertebrate_only,dISF,high,no,"Classic dISF, Finland (Huhtamo 2009); Aedes; fails to replicate in vertebrate cells",invertebrate_only
+Nhumirim virus,2,invertebrate_only,dISF,high,no,"dISF, Brazil (Kenney 2014); Culex; no vertebrate replication, candidate ISF",invertebrate_only
+Nounane virus,2,invertebrate_only,dISF,high,no,"dISF, Cote d'Ivoire (Junglen 2009); Uranotaenia; vertebrate-restricted",invertebrate_only
+Long Pine Key virus,7,invertebrate_only,cISF,medium,no,"Anopheles cISF, Florida (Shafer/Blitvich)",invertebrate_only
+Nanay virus,1,invertebrate_only,cISF,medium,no,"Culex cISF, Peru; insect-specific",invertebrate_only
+Barkedji virus,5,invertebrate_only,dISF,medium,no,"dISF, Culex (Kolodziejek 2013); insect-specific",invertebrate_only
+Ilomantsi virus,1,invertebrate_only,dISF,medium,no,"dISF, Finland; insect-specific",invertebrate_only
+Karumba virus,3,invertebrate_only,dISF,low,no,Australian flavivirus; host range less characterized - REVIEW,invertebrate_only
+Bamaga virus,1,dual_host,other,low,no,"*** Lineage-2 flavivirus, YFV-related; restricted but described replicating in vertebrate cells - REVIEW; likely dual_host or exclude",EXCLUDE

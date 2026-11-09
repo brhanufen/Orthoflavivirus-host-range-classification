@@ -1,0 +1,25 @@
+species_key,n_genomes,n_correct,accuracy,mean_P_dual_host,prediction
+t ho virus,2,0,0.0,0.9999164735277788,WRONG
+donggang virus,2,0,0.0,0.6978561671448309,WRONG
+chaoyang virus,2,0,0.0,0.7255851520171566,WRONG
+kampung karu virus,2,0,0.0,0.9999195546682428,WRONG
+quang binh virus,14,14,1.0,0.0047688023423814,CORRECT
+aedes flavivirus,10,10,1.0,2.791856550661949e-06,CORRECT
+mosquito flavivirus,6,6,1.0,8.160043414291472e-06,CORRECT
+culex flavivirus,37,37,1.0,2.903566727923727e-07,CORRECT
+cell fusing agent virus,8,8,1.0,2.3584766401048225e-07,CORRECT
+mercadeo virus,3,3,1.0,0.0001073414788287,CORRECT
+culiseta flavivirus,2,2,1.0,0.0014031731579023,CORRECT
+parramatta river virus,2,2,1.0,9.945753253177845e-05,CORRECT
+xishuangbanna aedes flavivirus,2,2,1.0,2.8188087777664102e-06,CORRECT
+anopheles flavivirus variant 1,2,2,1.0,2.3533887411037187e-06,CORRECT
+anopheles flavivirus variant 2,1,1,1.0,1.5428562018266224e-05,CORRECT
+menghai flavivirus,2,2,1.0,0.1911254223885868,CORRECT
+la tina virus,1,1,1.0,9.259953358425181e-09,CORRECT
+marisma mosquito virus,1,1,1.0,0.0003635091926398,CORRECT
+psorophora flavivirus,2,2,1.0,2.307376230986971e-05,CORRECT
+ochlerotatus scapularis flavivirus,1,1,1.0,0.0015181809783218,CORRECT
+mansonia flavivirus,1,1,1.0,4.836463749740887e-05,CORRECT
+culex theileri flavivirus,2,2,1.0,7.198639388577334e-07,CORRECT
+sabethes flavivirus,1,1,1.0,2.923527740036521e-07,CORRECT
+kilpisjarvi flavivirus,1,1,1.0,0.0717244680704929,CORRECT

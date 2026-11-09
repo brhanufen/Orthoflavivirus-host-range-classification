@@ -1,0 +1,5 @@
+species,n_genomes,mean_P_dual_host_LOSO,CpG_OE,classification_confidence
+t ho virus,2,0.9999,0.537,High (dual-host-like)
+kampung karu virus,2,0.9999,0.548,High (dual-host-like)
+chaoyang virus,2,0.726,0.636,Moderate
+donggang virus,2,0.698,0.636,Moderate

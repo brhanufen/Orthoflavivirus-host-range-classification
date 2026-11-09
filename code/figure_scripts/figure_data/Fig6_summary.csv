@@ -1,0 +1,14 @@
+Parameter,Value
+Total species,53
+Correctly classified species,50
+Misclassified species (per-species),3
+Species-level accuracy,94.3%
+Total ISFV species,24
+ISFV species correctly classified (LOSO),20
+ISFV species misclassified (LOSO),4
+ISFV species-level accuracy (LOSO),83.3%
+Total ISFV genomes,107
+Correctly classified ISFV genomes,99
+Misclassified ISFV genomes,8
+ISFV genome-level accuracy,92.5%
+Misclassified ISFV species names,"T'Ho, Kampung Karu, Chaoyang, Donggang"

@@ -1,0 +1,9 @@
+Metric,Value
+Total ISFV species,24
+Correctly classified (n),20
+Misclassified (n),4
+Species-level accuracy,83.3%
+Total ISFV genomes,107
+Correctly classified genomes,99
+Misclassified genomes,8
+Genome-level accuracy,92.5%

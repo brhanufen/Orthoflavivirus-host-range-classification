@@ -1,0 +1,8 @@
+metric,v3_headline_(both_dual_host),Fitzroy_reverted_to_ISFV,Gadgets_reverted_to_ISFV
+Test n / ISFV,205 / 56,205 / 57,205 / 56
+LR PR-AUC,0.999,0.989,0.970
+LR balanced accuracy,0.973,0.965,0.925
+LR MCC,0.963,0.952,0.889
+LR specificity,100%,100%,100%
+LOSO ISFV recall (species),38/41 (92.7%),37/42 (88.1%),37/42 (88.1%)
+LOSO ISFV recall (genomes),234/241 (97.1%),234/246 (95.1%),234/242 (96.7%)

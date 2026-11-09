@@ -1,0 +1,54 @@
+species_key,mean_P_dual_host,std_P_dual_host,n_genomes,y,accuracy,host_range_label,predicted_label,species_correct,correct,predicted_class
+nienokoue virus,0.0143337750070745,,1,1,0.0,Dual-host,0,False,False,ISFV
+sitiawan virus,0.7757534098578887,,1,1,1.0,Dual-host,1,True,True,dual_host
+saruyama virus,0.9163673737418024,,1,1,1.0,Dual-host,1,True,True,dual_host
+stratford virus,0.9384851937365052,,1,1,1.0,Dual-host,1,True,True,dual_host
+ntaya virus,0.9567662920666468,,1,1,1.0,Dual-host,1,True,True,dual_host
+west nile virus,0.976339750223552,0.0416473798825873,6,1,1.0,Dual-host,1,True,True,dual_host
+cacipacore virus,0.9823987458023756,,1,1,1.0,Dual-host,1,True,True,dual_host
+yellow fever virus,0.9843468205067948,0.0165822000119301,74,1,1.0,Dual-host,1,True,True,dual_host
+tembusu virus,0.985454656837907,0.0307320766885304,8,1,1.0,Dual-host,1,True,True,dual_host
+ilheus virus,0.9873825235454778,0.0028778808207844,11,1,1.0,Dual-host,1,True,True,dual_host
+zika virus,0.9875816524912032,0.0111423853547927,7,1,1.0,Dual-host,1,True,True,dual_host
+naranjal virus,0.9907933521990328,,1,1,1.0,Dual-host,1,True,True,dual_host
+mpulungu flavivirus,0.9947284936683006,,1,1,1.0,Dual-host,1,True,True,dual_host
+alpine chamois encephalitis virus,0.995504158908566,3.8524939528037264e-05,2,1,1.0,Dual-host,1,True,True,dual_host
+japanese encephalitis virus,0.9973843255312982,,1,1,1.0,Dual-host,1,True,True,dual_host
+duck egg drop syndrome virus,0.9978725529742588,0.0005457160423614,7,1,1.0,Dual-host,1,True,True,dual_host
+usutu virus,0.998879982286134,,1,1,1.0,Dual-host,1,True,True,dual_host
+alfuy virus,0.9991672986063872,,1,1,1.0,Dual-host,1,True,True,dual_host
+tick borne encephalitis virus,0.9995643132746328,0.0006798281448859,3,1,1.0,Dual-host,1,True,True,dual_host
+dengue virus type 4,0.9997023665981002,0.0002835691259778,77,1,1.0,Dual-host,1,True,True,dual_host
+omsk hemorrhagic fever virus,0.9997271379654554,1.26033555444383e-05,3,1,1.0,Dual-host,1,True,True,dual_host
+bagaza virus,0.9998489407225905,0.0,2,1,1.0,Dual-host,1,True,True,dual_host
+dengue virus type 1,0.9998705072412434,0.0001436436145399,277,1,1.0,Dual-host,1,True,True,dual_host
+dengue virus type 2,0.9998718906916656,0.0004428826407301,408,1,1.0,Dual-host,1,True,True,dual_host
+dengue virus type 3,0.9999284409973486,5.074582311436724e-05,275,1,1.0,Dual-host,1,True,True,dual_host
+spanish goat encephalitis virus,0.9999836259944836,0.0,2,1,1.0,Dual-host,1,True,True,dual_host
+louping ill virus,0.9999878098483296,,1,1,1.0,Dual-host,1,True,True,dual_host
+langat virus,0.9999922762898924,3.567837009083089e-07,2,1,1.0,Dual-host,1,True,True,dual_host
+kedougou virus,0.9999961664870212,0.0,2,1,1.0,Dual-host,1,True,True,dual_host
+sabethes flavivirus,6.714422833997794e-09,,1,0,1.0,ISFV,0,True,True,ISFV
+la tina virus,1.9030352320957508e-08,,1,0,1.0,ISFV,0,True,True,ISFV
+culex theileri flavivirus,2.3502048111279195e-06,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+cell fusing agent virus,6.591424264358537e-06,1.4066049853858544e-06,8,0,1.0,ISFV,0,True,True,ISFV
+parramatta river virus,1.5395917983604883e-05,9.500192576635825e-06,2,0,1.0,ISFV,0,True,True,ISFV
+anopheles flavivirus variant 1,1.91570214291724e-05,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+aedes flavivirus,2.57627486733084e-05,1.5069334495644568e-05,10,0,1.0,ISFV,0,True,True,ISFV
+kilpisjarvi flavivirus,4.533035862781652e-05,,1,0,1.0,ISFV,0,True,True,ISFV
+mercadeo virus,4.594262860625678e-05,1.1014912225356497e-05,3,0,1.0,ISFV,0,True,True,ISFV
+anopheles flavivirus variant 2,5.600809884191456e-05,,1,0,1.0,ISFV,0,True,True,ISFV
+culex flavivirus,0.0001318591234649,0.0001112875177431,37,0,1.0,ISFV,0,True,True,ISFV
+ochlerotatus scapularis flavivirus,0.0001703792814746,,1,0,1.0,ISFV,0,True,True,ISFV
+mosquito flavivirus,0.000216063851295,6.201910516915803e-05,6,0,1.0,ISFV,0,True,True,ISFV
+quang binh virus,0.000394457086204,0.0003579146133752,14,0,1.0,ISFV,0,True,True,ISFV
+marisma mosquito virus,0.0008680793460084,,1,0,1.0,ISFV,0,True,True,ISFV
+mansonia flavivirus,0.0009545598438131,,1,0,1.0,ISFV,0,True,True,ISFV
+culiseta flavivirus,0.0028575997430461,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+donggang virus,0.0046401455840312,0.0004165493552846,2,0,1.0,ISFV,0,True,True,ISFV
+kampung karu virus,0.0118376074687147,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+xishuangbanna aedes flavivirus,0.0219854923443772,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+psorophora flavivirus,0.0260256740622852,0.0019069111691896,2,0,1.0,ISFV,0,True,True,ISFV
+menghai flavivirus,0.1030214953942089,0.0,2,0,1.0,ISFV,0,True,True,ISFV
+chaoyang virus,0.6332533924515658,0.1122810653156454,2,0,0.0,ISFV,1,False,False,dual_host
+t ho virus,0.9999109784693978,0.0,2,0,0.0,ISFV,1,False,False,dual_host

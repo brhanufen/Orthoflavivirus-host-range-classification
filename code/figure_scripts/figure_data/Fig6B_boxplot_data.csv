@@ -1,0 +1,643 @@
+Feature,Value,Classification,Species
+CpG_OE,0.9309577841755798,Correctly classified,culex flavivirus
+CpG_OE,0.9322091916187132,Correctly classified,culex flavivirus
+CpG_OE,0.8830240515847182,Correctly classified,aedes flavivirus
+CpG_OE,0.9309705532491792,Correctly classified,culex flavivirus
+CpG_OE,0.9300081874849324,Correctly classified,culex flavivirus
+CpG_OE,0.9280021601937344,Correctly classified,culex flavivirus
+CpG_OE,0.9304975915466708,Correctly classified,culex flavivirus
+CpG_OE,0.9371925206654678,Correctly classified,culex flavivirus
+CpG_OE,0.9295618878094484,Correctly classified,culex flavivirus
+CpG_OE,0.9428794795553004,Correctly classified,culex flavivirus
+CpG_OE,0.9305860117704154,Correctly classified,culex flavivirus
+CpG_OE,0.936440759066882,Correctly classified,culex flavivirus
+CpG_OE,0.9350835861483796,Correctly classified,culex flavivirus
+CpG_OE,0.9356977667131416,Correctly classified,culex flavivirus
+CpG_OE,0.9348465877290664,Correctly classified,culex flavivirus
+CpG_OE,0.5371456838068565,Misclassified,t ho virus
+CpG_OE,0.927698667519236,Correctly classified,culex flavivirus
+CpG_OE,0.9047292625831038,Correctly classified,quang binh virus
+CpG_OE,0.9350254042576656,Correctly classified,culex flavivirus
+CpG_OE,0.9315021293920798,Correctly classified,culex flavivirus
+CpG_OE,0.6359714738181178,Misclassified,donggang virus
+CpG_OE,0.6358966549255476,Misclassified,chaoyang virus
+CpG_OE,0.9375556904109776,Correctly classified,culex flavivirus
+CpG_OE,0.9403401508364012,Correctly classified,culex flavivirus
+CpG_OE,0.9269653199954736,Correctly classified,culex flavivirus
+CpG_OE,0.942779849431177,Correctly classified,culex flavivirus
+CpG_OE,0.9252673285689952,Correctly classified,culex flavivirus
+CpG_OE,0.8882156801647763,Correctly classified,aedes flavivirus
+CpG_OE,0.8774925012147672,Correctly classified,mosquito flavivirus
+CpG_OE,0.8894484236917294,Correctly classified,aedes flavivirus
+CpG_OE,0.7880676393840306,Correctly classified,cell fusing agent virus
+CpG_OE,0.889884385508228,Correctly classified,mercadeo virus
+CpG_OE,0.8711992300871276,Correctly classified,mercadeo virus
+CpG_OE,0.7981469517348752,Correctly classified,parramatta river virus
+CpG_OE,0.8611255149640963,Correctly classified,culiseta flavivirus
+CpG_OE,0.7894176304821218,Correctly classified,xishuangbanna aedes flavivirus
+CpG_OE,0.8345131905780521,Correctly classified,anopheles flavivirus variant 1
+CpG_OE,0.7731647570153786,Correctly classified,anopheles flavivirus variant 2
+CpG_OE,0.9233350734651504,Correctly classified,mosquito flavivirus
+CpG_OE,0.9186920328656644,Correctly classified,mosquito flavivirus
+CpG_OE,0.9198156716138892,Correctly classified,mosquito flavivirus
+CpG_OE,0.7910185470954363,Correctly classified,menghai flavivirus
+CpG_OE,0.5479460132450221,Misclassified,kampung karu virus
+CpG_OE,0.936058782526287,Correctly classified,la tina virus
+CpG_OE,0.6521999718653302,Correctly classified,marisma mosquito virus
+CpG_OE,0.9407988134001112,Correctly classified,culex flavivirus
+CpG_OE,0.7912787369670323,Correctly classified,cell fusing agent virus
+CpG_OE,0.9519368964639529,Correctly classified,culex flavivirus
+CpG_OE,0.7559327025347226,Correctly classified,psorophora flavivirus
+CpG_OE,0.7656596020005825,Correctly classified,ochlerotatus scapularis flavivirus
+CpG_OE,0.7454354044495769,Correctly classified,mansonia flavivirus
+CpG_OE,0.8894403049654013,Correctly classified,aedes flavivirus
+CpG_OE,0.9147328872416968,Correctly classified,culex flavivirus
+CpG_OE,0.7582788925605816,Correctly classified,psorophora flavivirus
+CpG_OE,0.9273522587406692,Correctly classified,culex theileri flavivirus
+CpG_OE,0.9265819814986088,Correctly classified,culex flavivirus
+CpG_OE,0.92283307191974,Correctly classified,culex flavivirus
+CpG_OE,0.9203299603906018,Correctly classified,culex flavivirus
+CpG_OE,0.7901676339220262,Correctly classified,cell fusing agent virus
+CpG_OE,0.9341090361805624,Correctly classified,culex flavivirus
+CpG_OE,0.8879565528318819,Correctly classified,quang binh virus
+CpG_OE,0.8813184111954582,Correctly classified,quang binh virus
+CpG_OE,0.7613453907282313,Correctly classified,sabethes flavivirus
+CpG_OE,0.8020481687490691,Correctly classified,cell fusing agent virus
+CpG_OE,0.9166029288923494,Correctly classified,culex flavivirus
+CpG_OE,0.8857268676976288,Correctly classified,aedes flavivirus
+CpG_OE,0.8859763701857845,Correctly classified,aedes flavivirus
+CpG_OE,0.8733493425887038,Correctly classified,quang binh virus
+CpG_OE,0.8728150223687879,Correctly classified,mosquito flavivirus
+CpG_OE,0.7852452136999604,Correctly classified,cell fusing agent virus
+CpG_OE,0.7866729322703239,Correctly classified,cell fusing agent virus
+CpG_OE,0.7909541856248921,Correctly classified,cell fusing agent virus
+CpG_OE,0.7880676393840306,Correctly classified,cell fusing agent virus
+CpG_OE,0.9309577841755798,Correctly classified,culex flavivirus
+CpG_OE,0.9047292625831038,Correctly classified,quang binh virus
+CpG_OE,0.8830240515847182,Correctly classified,aedes flavivirus
+CpG_OE,0.6359714738181178,Misclassified,donggang virus
+CpG_OE,0.6358966549255476,Misclassified,chaoyang virus
+CpG_OE,0.8774925012147672,Correctly classified,mosquito flavivirus
+CpG_OE,0.7981469517348752,Correctly classified,parramatta river virus
+CpG_OE,0.8711992300871276,Correctly classified,mercadeo virus
+CpG_OE,0.8611255149640963,Correctly classified,culiseta flavivirus
+CpG_OE,0.8345131905780521,Correctly classified,anopheles flavivirus variant 1
+CpG_OE,0.7894176304821218,Correctly classified,xishuangbanna aedes flavivirus
+CpG_OE,0.5371456838068565,Misclassified,t ho virus
+CpG_OE,0.7910185470954363,Correctly classified,menghai flavivirus
+CpG_OE,0.9273522587406692,Correctly classified,culex theileri flavivirus
+CpG_OE,0.5479460132450221,Misclassified,kampung karu virus
+CpG_OE,0.9484643685057832,Correctly classified,culex flavivirus
+CpG_OE,0.9348597201068172,Correctly classified,culex flavivirus
+CpG_OE,0.7922904981373369,Correctly classified,kilpisjarvi flavivirus
+CpG_OE,0.8811715947713874,Correctly classified,quang binh virus
+CpG_OE,0.8835371851936421,Correctly classified,quang binh virus
+CpG_OE,0.880988514373604,Correctly classified,quang binh virus
+CpG_OE,0.8850637452005234,Correctly classified,aedes flavivirus
+CpG_OE,0.8821106146940466,Correctly classified,aedes flavivirus
+CpG_OE,0.8820345123725014,Correctly classified,quang binh virus
+CpG_OE,0.8768898862624359,Correctly classified,quang binh virus
+CpG_OE,0.9005093461689962,Correctly classified,quang binh virus
+CpG_OE,0.899155987544701,Correctly classified,quang binh virus
+CpG_OE,0.904543800359618,Correctly classified,quang binh virus
+CpG_OE,0.9550749171517438,Correctly classified,culex flavivirus
+CpG_OE,0.8891821808266106,Correctly classified,aedes flavivirus
+CpG_OE,0.91061130772098,Correctly classified,culex flavivirus
+CpG_OE,0.9140079358247932,Correctly classified,culex flavivirus
+CpG_OE,0.916250003118225,Correctly classified,culex flavivirus
+CpG_OE,0.8812272977143896,Correctly classified,quang binh virus
+CG_OE,0.9309577841755798,Correctly classified,culex flavivirus
+CG_OE,0.9322091916187132,Correctly classified,culex flavivirus
+CG_OE,0.8830240515847182,Correctly classified,aedes flavivirus
+CG_OE,0.9309705532491792,Correctly classified,culex flavivirus
+CG_OE,0.9300081874849324,Correctly classified,culex flavivirus
+CG_OE,0.9280021601937344,Correctly classified,culex flavivirus
+CG_OE,0.9304975915466708,Correctly classified,culex flavivirus
+CG_OE,0.9371925206654678,Correctly classified,culex flavivirus
+CG_OE,0.9295618878094484,Correctly classified,culex flavivirus
+CG_OE,0.9428794795553004,Correctly classified,culex flavivirus
+CG_OE,0.9305860117704154,Correctly classified,culex flavivirus
+CG_OE,0.936440759066882,Correctly classified,culex flavivirus
+CG_OE,0.9350835861483796,Correctly classified,culex flavivirus
+CG_OE,0.9356977667131416,Correctly classified,culex flavivirus
+CG_OE,0.9348465877290664,Correctly classified,culex flavivirus
+CG_OE,0.5371456838068565,Misclassified,t ho virus
+CG_OE,0.927698667519236,Correctly classified,culex flavivirus
+CG_OE,0.9047292625831038,Correctly classified,quang binh virus
+CG_OE,0.9350254042576656,Correctly classified,culex flavivirus
+CG_OE,0.9315021293920798,Correctly classified,culex flavivirus
+CG_OE,0.6359714738181178,Misclassified,donggang virus
+CG_OE,0.6358966549255476,Misclassified,chaoyang virus
+CG_OE,0.9375556904109776,Correctly classified,culex flavivirus
+CG_OE,0.9403401508364012,Correctly classified,culex flavivirus
+CG_OE,0.9269653199954736,Correctly classified,culex flavivirus
+CG_OE,0.942779849431177,Correctly classified,culex flavivirus
+CG_OE,0.9252673285689952,Correctly classified,culex flavivirus
+CG_OE,0.8882156801647763,Correctly classified,aedes flavivirus
+CG_OE,0.8774925012147672,Correctly classified,mosquito flavivirus
+CG_OE,0.8894484236917294,Correctly classified,aedes flavivirus
+CG_OE,0.7880676393840306,Correctly classified,cell fusing agent virus
+CG_OE,0.889884385508228,Correctly classified,mercadeo virus
+CG_OE,0.8711992300871276,Correctly classified,mercadeo virus
+CG_OE,0.7981469517348752,Correctly classified,parramatta river virus
+CG_OE,0.8611255149640963,Correctly classified,culiseta flavivirus
+CG_OE,0.7894176304821218,Correctly classified,xishuangbanna aedes flavivirus
+CG_OE,0.8345131905780521,Correctly classified,anopheles flavivirus variant 1
+CG_OE,0.7731647570153786,Correctly classified,anopheles flavivirus variant 2
+CG_OE,0.9233350734651504,Correctly classified,mosquito flavivirus
+CG_OE,0.9186920328656644,Correctly classified,mosquito flavivirus
+CG_OE,0.9198156716138892,Correctly classified,mosquito flavivirus
+CG_OE,0.7910185470954363,Correctly classified,menghai flavivirus
+CG_OE,0.5479460132450221,Misclassified,kampung karu virus
+CG_OE,0.936058782526287,Correctly classified,la tina virus
+CG_OE,0.6521999718653302,Correctly classified,marisma mosquito virus
+CG_OE,0.9407988134001112,Correctly classified,culex flavivirus
+CG_OE,0.7912787369670323,Correctly classified,cell fusing agent virus
+CG_OE,0.9519368964639529,Correctly classified,culex flavivirus
+CG_OE,0.7559327025347226,Correctly classified,psorophora flavivirus
+CG_OE,0.7656596020005825,Correctly classified,ochlerotatus scapularis flavivirus
+CG_OE,0.7454354044495769,Correctly classified,mansonia flavivirus
+CG_OE,0.8894403049654013,Correctly classified,aedes flavivirus
+CG_OE,0.9147328872416968,Correctly classified,culex flavivirus
+CG_OE,0.7582788925605816,Correctly classified,psorophora flavivirus
+CG_OE,0.9273522587406692,Correctly classified,culex theileri flavivirus
+CG_OE,0.9265819814986088,Correctly classified,culex flavivirus
+CG_OE,0.92283307191974,Correctly classified,culex flavivirus
+CG_OE,0.9203299603906018,Correctly classified,culex flavivirus
+CG_OE,0.7901676339220262,Correctly classified,cell fusing agent virus
+CG_OE,0.9341090361805624,Correctly classified,culex flavivirus
+CG_OE,0.8879565528318819,Correctly classified,quang binh virus
+CG_OE,0.8813184111954582,Correctly classified,quang binh virus
+CG_OE,0.7613453907282313,Correctly classified,sabethes flavivirus
+CG_OE,0.8020481687490691,Correctly classified,cell fusing agent virus
+CG_OE,0.9166029288923494,Correctly classified,culex flavivirus
+CG_OE,0.8857268676976288,Correctly classified,aedes flavivirus
+CG_OE,0.8859763701857845,Correctly classified,aedes flavivirus
+CG_OE,0.8733493425887038,Correctly classified,quang binh virus
+CG_OE,0.8728150223687879,Correctly classified,mosquito flavivirus
+CG_OE,0.7852452136999604,Correctly classified,cell fusing agent virus
+CG_OE,0.7866729322703239,Correctly classified,cell fusing agent virus
+CG_OE,0.7909541856248921,Correctly classified,cell fusing agent virus
+CG_OE,0.7880676393840306,Correctly classified,cell fusing agent virus
+CG_OE,0.9309577841755798,Correctly classified,culex flavivirus
+CG_OE,0.9047292625831038,Correctly classified,quang binh virus
+CG_OE,0.8830240515847182,Correctly classified,aedes flavivirus
+CG_OE,0.6359714738181178,Misclassified,donggang virus
+CG_OE,0.6358966549255476,Misclassified,chaoyang virus
+CG_OE,0.8774925012147672,Correctly classified,mosquito flavivirus
+CG_OE,0.7981469517348752,Correctly classified,parramatta river virus
+CG_OE,0.8711992300871276,Correctly classified,mercadeo virus
+CG_OE,0.8611255149640963,Correctly classified,culiseta flavivirus
+CG_OE,0.8345131905780521,Correctly classified,anopheles flavivirus variant 1
+CG_OE,0.7894176304821218,Correctly classified,xishuangbanna aedes flavivirus
+CG_OE,0.5371456838068565,Misclassified,t ho virus
+CG_OE,0.7910185470954363,Correctly classified,menghai flavivirus
+CG_OE,0.9273522587406692,Correctly classified,culex theileri flavivirus
+CG_OE,0.5479460132450221,Misclassified,kampung karu virus
+CG_OE,0.9484643685057832,Correctly classified,culex flavivirus
+CG_OE,0.9348597201068172,Correctly classified,culex flavivirus
+CG_OE,0.7922904981373369,Correctly classified,kilpisjarvi flavivirus
+CG_OE,0.8811715947713874,Correctly classified,quang binh virus
+CG_OE,0.8835371851936421,Correctly classified,quang binh virus
+CG_OE,0.880988514373604,Correctly classified,quang binh virus
+CG_OE,0.8850637452005234,Correctly classified,aedes flavivirus
+CG_OE,0.8821106146940466,Correctly classified,aedes flavivirus
+CG_OE,0.8820345123725014,Correctly classified,quang binh virus
+CG_OE,0.8768898862624359,Correctly classified,quang binh virus
+CG_OE,0.9005093461689962,Correctly classified,quang binh virus
+CG_OE,0.899155987544701,Correctly classified,quang binh virus
+CG_OE,0.904543800359618,Correctly classified,quang binh virus
+CG_OE,0.9550749171517438,Correctly classified,culex flavivirus
+CG_OE,0.8891821808266106,Correctly classified,aedes flavivirus
+CG_OE,0.91061130772098,Correctly classified,culex flavivirus
+CG_OE,0.9140079358247932,Correctly classified,culex flavivirus
+CG_OE,0.916250003118225,Correctly classified,culex flavivirus
+CG_OE,0.8812272977143896,Correctly classified,quang binh virus
+TA_OE,0.4945361399560031,Correctly classified,culex flavivirus
+TA_OE,0.4956141487080838,Correctly classified,culex flavivirus
+TA_OE,0.6414647960018495,Correctly classified,aedes flavivirus
+TA_OE,0.4809972848155286,Correctly classified,culex flavivirus
+TA_OE,0.4808088062556479,Correctly classified,culex flavivirus
+TA_OE,0.4804309562334947,Correctly classified,culex flavivirus
+TA_OE,0.4847916887943949,Correctly classified,culex flavivirus
+TA_OE,0.4938957324169803,Correctly classified,culex flavivirus
+TA_OE,0.4809985492731127,Correctly classified,culex flavivirus
+TA_OE,0.5097881954663194,Correctly classified,culex flavivirus
+TA_OE,0.4821037402830079,Correctly classified,culex flavivirus
+TA_OE,0.49517820805543,Correctly classified,culex flavivirus
+TA_OE,0.4928859830096677,Correctly classified,culex flavivirus
+TA_OE,0.5002192367149737,Correctly classified,culex flavivirus
+TA_OE,0.4817343901272888,Correctly classified,culex flavivirus
+TA_OE,0.5643915240693729,Misclassified,t ho virus
+TA_OE,0.4815002174727009,Correctly classified,culex flavivirus
+TA_OE,0.5319421451005459,Correctly classified,quang binh virus
+TA_OE,0.4891931840170226,Correctly classified,culex flavivirus
+TA_OE,0.4953984562760433,Correctly classified,culex flavivirus
+TA_OE,0.6200628176360615,Misclassified,donggang virus
+TA_OE,0.5812104700060762,Misclassified,chaoyang virus
+TA_OE,0.5058760053590369,Correctly classified,culex flavivirus
+TA_OE,0.5031182666954033,Correctly classified,culex flavivirus
+TA_OE,0.4800191895034029,Correctly classified,culex flavivirus
+TA_OE,0.4823181040800735,Correctly classified,culex flavivirus
+TA_OE,0.486683637085865,Correctly classified,culex flavivirus
+TA_OE,0.637855636875273,Correctly classified,aedes flavivirus
+TA_OE,0.5171273411124957,Correctly classified,mosquito flavivirus
+TA_OE,0.6606069833086747,Correctly classified,aedes flavivirus
+TA_OE,0.5713458696380795,Correctly classified,cell fusing agent virus
+TA_OE,0.4738297778311751,Correctly classified,mercadeo virus
+TA_OE,0.4718645569473849,Correctly classified,mercadeo virus
+TA_OE,0.5541325799065424,Correctly classified,parramatta river virus
+TA_OE,0.5920137473967108,Correctly classified,culiseta flavivirus
+TA_OE,0.6001118566424488,Correctly classified,xishuangbanna aedes flavivirus
+TA_OE,0.6095521705165677,Correctly classified,anopheles flavivirus variant 1
+TA_OE,0.5919811294399869,Correctly classified,anopheles flavivirus variant 2
+TA_OE,0.4571394891439104,Correctly classified,mosquito flavivirus
+TA_OE,0.4450360918315574,Correctly classified,mosquito flavivirus
+TA_OE,0.4472995774316396,Correctly classified,mosquito flavivirus
+TA_OE,0.5517339823244496,Correctly classified,menghai flavivirus
+TA_OE,0.5304077457211166,Misclassified,kampung karu virus
+TA_OE,0.6663948377448519,Correctly classified,la tina virus
+TA_OE,0.5949010481219534,Correctly classified,marisma mosquito virus
+TA_OE,0.4817625153572752,Correctly classified,culex flavivirus
+TA_OE,0.5859097265287124,Correctly classified,cell fusing agent virus
+TA_OE,0.4827089952567346,Correctly classified,culex flavivirus
+TA_OE,0.5897481318532906,Correctly classified,psorophora flavivirus
+TA_OE,0.4547567132394783,Correctly classified,ochlerotatus scapularis flavivirus
+TA_OE,0.6140175313096408,Correctly classified,mansonia flavivirus
+TA_OE,0.6390901517778989,Correctly classified,aedes flavivirus
+TA_OE,0.4754744576917746,Correctly classified,culex flavivirus
+TA_OE,0.5902035911073137,Correctly classified,psorophora flavivirus
+TA_OE,0.4477811138407829,Correctly classified,culex theileri flavivirus
+TA_OE,0.4692360297186501,Correctly classified,culex flavivirus
+TA_OE,0.4648796775405786,Correctly classified,culex flavivirus
+TA_OE,0.4651238142342171,Correctly classified,culex flavivirus
+TA_OE,0.5745598312245968,Correctly classified,cell fusing agent virus
+TA_OE,0.4821049316907542,Correctly classified,culex flavivirus
+TA_OE,0.5166786492178506,Correctly classified,quang binh virus
+TA_OE,0.5481790114900853,Correctly classified,quang binh virus
+TA_OE,0.5243574962664804,Correctly classified,sabethes flavivirus
+TA_OE,0.6026675959473288,Correctly classified,cell fusing agent virus
+TA_OE,0.4780542708645574,Correctly classified,culex flavivirus
+TA_OE,0.6588841653503602,Correctly classified,aedes flavivirus
+TA_OE,0.6374085035895979,Correctly classified,aedes flavivirus
+TA_OE,0.5396107549501186,Correctly classified,quang binh virus
+TA_OE,0.5265083059817426,Correctly classified,mosquito flavivirus
+TA_OE,0.5864251687250869,Correctly classified,cell fusing agent virus
+TA_OE,0.5864251687250869,Correctly classified,cell fusing agent virus
+TA_OE,0.5841518492020377,Correctly classified,cell fusing agent virus
+TA_OE,0.5713458696380795,Correctly classified,cell fusing agent virus
+TA_OE,0.4945361399560031,Correctly classified,culex flavivirus
+TA_OE,0.5319421451005459,Correctly classified,quang binh virus
+TA_OE,0.6414647960018495,Correctly classified,aedes flavivirus
+TA_OE,0.6200628176360615,Misclassified,donggang virus
+TA_OE,0.5812104700060762,Misclassified,chaoyang virus
+TA_OE,0.5171273411124957,Correctly classified,mosquito flavivirus
+TA_OE,0.5541325799065424,Correctly classified,parramatta river virus
+TA_OE,0.4718645569473849,Correctly classified,mercadeo virus
+TA_OE,0.5920137473967108,Correctly classified,culiseta flavivirus
+TA_OE,0.6095521705165677,Correctly classified,anopheles flavivirus variant 1
+TA_OE,0.6001118566424488,Correctly classified,xishuangbanna aedes flavivirus
+TA_OE,0.5643915240693729,Misclassified,t ho virus
+TA_OE,0.5517339823244496,Correctly classified,menghai flavivirus
+TA_OE,0.4477811138407829,Correctly classified,culex theileri flavivirus
+TA_OE,0.5304077457211166,Misclassified,kampung karu virus
+TA_OE,0.4620976608067621,Correctly classified,culex flavivirus
+TA_OE,0.4833885261703096,Correctly classified,culex flavivirus
+TA_OE,0.5043163735946857,Correctly classified,kilpisjarvi flavivirus
+TA_OE,0.5465428615488832,Correctly classified,quang binh virus
+TA_OE,0.5471532138120011,Correctly classified,quang binh virus
+TA_OE,0.5470373624085693,Correctly classified,quang binh virus
+TA_OE,0.6344610143573047,Correctly classified,aedes flavivirus
+TA_OE,0.6446607886789285,Correctly classified,aedes flavivirus
+TA_OE,0.543986206716431,Correctly classified,quang binh virus
+TA_OE,0.5520665434538693,Correctly classified,quang binh virus
+TA_OE,0.5298866503567493,Correctly classified,quang binh virus
+TA_OE,0.5333490483908292,Correctly classified,quang binh virus
+TA_OE,0.5178507260212689,Correctly classified,quang binh virus
+TA_OE,0.4955222183233068,Correctly classified,culex flavivirus
+TA_OE,0.6502456313918997,Correctly classified,aedes flavivirus
+TA_OE,0.4709541097563505,Correctly classified,culex flavivirus
+TA_OE,0.4725253719062873,Correctly classified,culex flavivirus
+TA_OE,0.4717195606750221,Correctly classified,culex flavivirus
+TA_OE,0.5398299012030385,Correctly classified,quang binh virus
+RSCU_CGT,0.9504950495049505,Correctly classified,culex flavivirus
+RSCU_CGT,0.9552238805970148,Correctly classified,culex flavivirus
+RSCU_CGT,1.1889400921658986,Correctly classified,aedes flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,0.9801980198019802,Correctly classified,culex flavivirus
+RSCU_CGT,0.9552238805970148,Correctly classified,culex flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,0.9850746268656716,Correctly classified,culex flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,0.9552238805970148,Correctly classified,culex flavivirus
+RSCU_CGT,0.9504950495049505,Correctly classified,culex flavivirus
+RSCU_CGT,0.964824120603015,Correctly classified,culex flavivirus
+RSCU_CGT,0.891089108910891,Correctly classified,culex flavivirus
+RSCU_CGT,0.3444976076555024,Misclassified,t ho virus
+RSCU_CGT,1.02,Correctly classified,culex flavivirus
+RSCU_CGT,0.835820895522388,Correctly classified,quang binh virus
+RSCU_CGT,0.9850746268656716,Correctly classified,culex flavivirus
+RSCU_CGT,0.9705882352941178,Correctly classified,culex flavivirus
+RSCU_CGT,1.2285714285714286,Misclassified,donggang virus
+RSCU_CGT,0.4,Misclassified,chaoyang virus
+RSCU_CGT,0.9753694581280788,Correctly classified,culex flavivirus
+RSCU_CGT,0.9801980198019802,Correctly classified,culex flavivirus
+RSCU_CGT,1.02,Correctly classified,culex flavivirus
+RSCU_CGT,0.9850746268656716,Correctly classified,culex flavivirus
+RSCU_CGT,1.0693069306930694,Correctly classified,culex flavivirus
+RSCU_CGT,1.0783410138248848,Correctly classified,aedes flavivirus
+RSCU_CGT,1.010204081632653,Correctly classified,mosquito flavivirus
+RSCU_CGT,1.0604651162790697,Correctly classified,aedes flavivirus
+RSCU_CGT,0.7188940092165899,Correctly classified,cell fusing agent virus
+RSCU_CGT,1.0344827586206895,Correctly classified,mercadeo virus
+RSCU_CGT,1.0693069306930694,Correctly classified,mercadeo virus
+RSCU_CGT,0.9130434782608696,Correctly classified,parramatta river virus
+RSCU_CGT,0.9405405405405406,Correctly classified,culiseta flavivirus
+RSCU_CGT,0.5533980582524272,Correctly classified,xishuangbanna aedes flavivirus
+RSCU_CGT,0.9251101321585904,Correctly classified,anopheles flavivirus variant 1
+RSCU_CGT,1.0862068965517242,Correctly classified,anopheles flavivirus variant 2
+RSCU_CGT,0.9253731343283582,Correctly classified,mosquito flavivirus
+RSCU_CGT,1.00990099009901,Correctly classified,mosquito flavivirus
+RSCU_CGT,1.0344827586206895,Correctly classified,mosquito flavivirus
+RSCU_CGT,0.5177664974619289,Correctly classified,menghai flavivirus
+RSCU_CGT,0.5741626794258373,Misclassified,kampung karu virus
+RSCU_CGT,1.0783410138248848,Correctly classified,la tina virus
+RSCU_CGT,0.9339622641509432,Correctly classified,marisma mosquito virus
+RSCU_CGT,0.9263157894736842,Correctly classified,culex flavivirus
+RSCU_CGT,0.8018433179723503,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.916256157635468,Correctly classified,culex flavivirus
+RSCU_CGT,0.967741935483871,Correctly classified,psorophora flavivirus
+RSCU_CGT,0.7289719626168224,Correctly classified,ochlerotatus scapularis flavivirus
+RSCU_CGT,0.6912442396313364,Correctly classified,mansonia flavivirus
+RSCU_CGT,1.1162790697674418,Correctly classified,aedes flavivirus
+RSCU_CGT,0.9552238805970148,Correctly classified,culex flavivirus
+RSCU_CGT,0.963302752293578,Correctly classified,psorophora flavivirus
+RSCU_CGT,1.2947368421052632,Correctly classified,culex theileri flavivirus
+RSCU_CGT,1.019417475728155,Correctly classified,culex flavivirus
+RSCU_CGT,1.0485436893203883,Correctly classified,culex flavivirus
+RSCU_CGT,1.0508474576271185,Correctly classified,culex flavivirus
+RSCU_CGT,0.6912442396313364,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.9504950495049505,Correctly classified,culex flavivirus
+RSCU_CGT,0.66,Correctly classified,quang binh virus
+RSCU_CGT,1.085427135678392,Correctly classified,quang binh virus
+RSCU_CGT,1.23,Correctly classified,sabethes flavivirus
+RSCU_CGT,0.6666666666666666,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.9504950495049505,Correctly classified,culex flavivirus
+RSCU_CGT,1.0325581395348835,Correctly classified,aedes flavivirus
+RSCU_CGT,1.1059907834101383,Correctly classified,aedes flavivirus
+RSCU_CGT,1.1044776119402986,Correctly classified,quang binh virus
+RSCU_CGT,0.9489795918367347,Correctly classified,mosquito flavivirus
+RSCU_CGT,0.7909090909090908,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.8181818181818181,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.7155963302752294,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.7188940092165899,Correctly classified,cell fusing agent virus
+RSCU_CGT,0.9504950495049505,Correctly classified,culex flavivirus
+RSCU_CGT,1.0779661016949151,Correctly classified,quang binh virus
+RSCU_CGT,1.2264150943396226,Correctly classified,aedes flavivirus
+RSCU_CGT,1.187713310580205,Misclassified,donggang virus
+RSCU_CGT,0.4086021505376344,Misclassified,chaoyang virus
+RSCU_CGT,1.010204081632653,Correctly classified,mosquito flavivirus
+RSCU_CGT,0.968503937007874,Correctly classified,parramatta river virus
+RSCU_CGT,1.0526315789473684,Correctly classified,mercadeo virus
+RSCU_CGT,0.9405405405405406,Correctly classified,culiseta flavivirus
+RSCU_CGT,0.9251101321585904,Correctly classified,anopheles flavivirus variant 1
+RSCU_CGT,0.5533980582524272,Correctly classified,xishuangbanna aedes flavivirus
+RSCU_CGT,0.3444976076555024,Misclassified,t ho virus
+RSCU_CGT,0.5177664974619289,Correctly classified,menghai flavivirus
+RSCU_CGT,1.2947368421052632,Correctly classified,culex theileri flavivirus
+RSCU_CGT,0.5741626794258373,Misclassified,kampung karu virus
+RSCU_CGT,0.8613861386138613,Correctly classified,culex flavivirus
+RSCU_CGT,1.0485436893203883,Correctly classified,culex flavivirus
+RSCU_CGT,0.8656716417910448,Correctly classified,kilpisjarvi flavivirus
+RSCU_CGT,1.064039408866995,Correctly classified,quang binh virus
+RSCU_CGT,1.1044776119402986,Correctly classified,quang binh virus
+RSCU_CGT,1.1287128712871288,Correctly classified,quang binh virus
+RSCU_CGT,1.1059907834101383,Correctly classified,aedes flavivirus
+RSCU_CGT,0.9166666666666669,Correctly classified,aedes flavivirus
+RSCU_CGT,1.1044776119402986,Correctly classified,quang binh virus
+RSCU_CGT,1.1044776119402986,Correctly classified,quang binh virus
+RSCU_CGT,0.8059701492537313,Correctly classified,quang binh virus
+RSCU_CGT,0.7236180904522613,Correctly classified,quang binh virus
+RSCU_CGT,0.78,Correctly classified,quang binh virus
+RSCU_CGT,0.99,Correctly classified,culex flavivirus
+RSCU_CGT,1.0604651162790697,Correctly classified,aedes flavivirus
+RSCU_CGT,0.916256157635468,Correctly classified,culex flavivirus
+RSCU_CGT,1.004926108374384,Correctly classified,culex flavivirus
+RSCU_CGT,1.004926108374384,Correctly classified,culex flavivirus
+RSCU_CGT,1.0746268656716418,Correctly classified,quang binh virus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,11064.0,Correctly classified,aedes flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10836.0,Correctly classified,culex flavivirus
+genome_length,10836.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10836.0,Correctly classified,culex flavivirus
+genome_length,10835.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10937.0,Misclassified,t ho virus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10865.0,Correctly classified,quang binh virus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,10791.0,Misclassified,donggang virus
+genome_length,10733.0,Misclassified,chaoyang virus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,10841.0,Correctly classified,culex flavivirus
+genome_length,11079.0,Correctly classified,aedes flavivirus
+genome_length,10865.0,Correctly classified,mosquito flavivirus
+genome_length,11063.0,Correctly classified,aedes flavivirus
+genome_length,10682.0,Correctly classified,cell fusing agent virus
+genome_length,10938.0,Correctly classified,mercadeo virus
+genome_length,10938.0,Correctly classified,mercadeo virus
+genome_length,10893.0,Correctly classified,parramatta river virus
+genome_length,10864.0,Correctly classified,culiseta flavivirus
+genome_length,10884.0,Correctly classified,xishuangbanna aedes flavivirus
+genome_length,10588.0,Correctly classified,anopheles flavivirus variant 1
+genome_length,10529.0,Correctly classified,anopheles flavivirus variant 2
+genome_length,10697.0,Correctly classified,mosquito flavivirus
+genome_length,10697.0,Correctly classified,mosquito flavivirus
+genome_length,10697.0,Correctly classified,mosquito flavivirus
+genome_length,10897.0,Correctly classified,menghai flavivirus
+genome_length,10311.0,Misclassified,kampung karu virus
+genome_length,10050.0,Correctly classified,la tina virus
+genome_length,10335.0,Correctly classified,marisma mosquito virus
+genome_length,10640.0,Correctly classified,culex flavivirus
+genome_length,10679.0,Correctly classified,cell fusing agent virus
+genome_length,10270.0,Correctly classified,culex flavivirus
+genome_length,10831.0,Correctly classified,psorophora flavivirus
+genome_length,10449.0,Correctly classified,ochlerotatus scapularis flavivirus
+genome_length,10922.0,Correctly classified,mansonia flavivirus
+genome_length,11111.0,Correctly classified,aedes flavivirus
+genome_length,10830.0,Correctly classified,culex flavivirus
+genome_length,10831.0,Correctly classified,psorophora flavivirus
+genome_length,10280.0,Correctly classified,culex theileri flavivirus
+genome_length,10472.0,Correctly classified,culex flavivirus
+genome_length,10472.0,Correctly classified,culex flavivirus
+genome_length,10776.0,Correctly classified,culex flavivirus
+genome_length,10683.0,Correctly classified,cell fusing agent virus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10844.0,Correctly classified,quang binh virus
+genome_length,10891.0,Correctly classified,quang binh virus
+genome_length,10585.0,Correctly classified,sabethes flavivirus
+genome_length,10696.0,Correctly classified,cell fusing agent virus
+genome_length,10799.0,Correctly classified,culex flavivirus
+genome_length,10998.0,Correctly classified,aedes flavivirus
+genome_length,11038.0,Correctly classified,aedes flavivirus
+genome_length,10813.0,Correctly classified,quang binh virus
+genome_length,10816.0,Correctly classified,mosquito flavivirus
+genome_length,10684.0,Correctly classified,cell fusing agent virus
+genome_length,10684.0,Correctly classified,cell fusing agent virus
+genome_length,10684.0,Correctly classified,cell fusing agent virus
+genome_length,10682.0,Correctly classified,cell fusing agent virus
+genome_length,10837.0,Correctly classified,culex flavivirus
+genome_length,10865.0,Correctly classified,quang binh virus
+genome_length,11064.0,Correctly classified,aedes flavivirus
+genome_length,10791.0,Misclassified,donggang virus
+genome_length,10733.0,Misclassified,chaoyang virus
+genome_length,10865.0,Correctly classified,mosquito flavivirus
+genome_length,10893.0,Correctly classified,parramatta river virus
+genome_length,10938.0,Correctly classified,mercadeo virus
+genome_length,10864.0,Correctly classified,culiseta flavivirus
+genome_length,10588.0,Correctly classified,anopheles flavivirus variant 1
+genome_length,10884.0,Correctly classified,xishuangbanna aedes flavivirus
+genome_length,10937.0,Misclassified,t ho virus
+genome_length,10897.0,Correctly classified,menghai flavivirus
+genome_length,10280.0,Correctly classified,culex theileri flavivirus
+genome_length,10311.0,Misclassified,kampung karu virus
+genome_length,10640.0,Correctly classified,culex flavivirus
+genome_length,10759.0,Correctly classified,culex flavivirus
+genome_length,10948.0,Correctly classified,kilpisjarvi flavivirus
+genome_length,10831.0,Correctly classified,quang binh virus
+genome_length,10787.0,Correctly classified,quang binh virus
+genome_length,10829.0,Correctly classified,quang binh virus
+genome_length,11064.0,Correctly classified,aedes flavivirus
+genome_length,11061.0,Correctly classified,aedes flavivirus
+genome_length,10745.0,Correctly classified,quang binh virus
+genome_length,10785.0,Correctly classified,quang binh virus
+genome_length,10856.0,Correctly classified,quang binh virus
+genome_length,10779.0,Correctly classified,quang binh virus
+genome_length,10759.0,Correctly classified,quang binh virus
+genome_length,10746.0,Correctly classified,culex flavivirus
+genome_length,11000.0,Correctly classified,aedes flavivirus
+genome_length,10799.0,Correctly classified,culex flavivirus
+genome_length,10784.0,Correctly classified,culex flavivirus
+genome_length,10719.0,Correctly classified,culex flavivirus
+genome_length,10793.0,Correctly classified,quang binh virus
+gc_content,52.99437113592322,Correctly classified,culex flavivirus
+gc_content,52.966688197840725,Correctly classified,culex flavivirus
+gc_content,50.1355748373102,Correctly classified,aedes flavivirus
+gc_content,53.06819230414321,Correctly classified,culex flavivirus
+gc_content,53.05896465811571,Correctly classified,culex flavivirus
+gc_content,53.04050936606072,Correctly classified,culex flavivirus
+gc_content,52.92543373938723,Correctly classified,culex flavivirus
+gc_content,52.96234772978959,Correctly classified,culex flavivirus
+gc_content,53.06819230414321,Correctly classified,culex flavivirus
+gc_content,53.00359878195072,Correctly classified,culex flavivirus
+gc_content,53.04050936606072,Correctly classified,culex flavivirus
+gc_content,52.94389073458841,Correctly classified,culex flavivirus
+gc_content,52.91185971389017,Correctly classified,culex flavivirus
+gc_content,52.94823290578573,Correctly classified,culex flavivirus
+gc_content,53.02205407400572,Correctly classified,culex flavivirus
+gc_content,49.492548230776265,Misclassified,t ho virus
+gc_content,52.929777613730735,Correctly classified,culex flavivirus
+gc_content,52.425218591808566,Correctly classified,quang binh virus
+gc_content,52.81469176818015,Correctly classified,culex flavivirus
+gc_content,53.12240568213264,Correctly classified,culex flavivirus
+gc_content,48.29024186822352,Misclassified,donggang virus
+gc_content,48.42075840864623,Misclassified,chaoyang virus
+gc_content,53.14085416474496,Correctly classified,culex flavivirus
+gc_content,53.1685268886634,Correctly classified,culex flavivirus
+gc_content,52.94714509731576,Correctly classified,culex flavivirus
+gc_content,53.14085416474496,Correctly classified,culex flavivirus
+gc_content,53.26999354303109,Correctly classified,culex flavivirus
+gc_content,50.08124210146235,Correctly classified,aedes flavivirus
+gc_content,52.31605120176812,Correctly classified,mosquito flavivirus
+gc_content,49.92316731447166,Correctly classified,aedes flavivirus
+gc_content,51.02040816326531,Correctly classified,cell fusing agent virus
+gc_content,50.28341561528615,Correctly classified,mercadeo virus
+gc_content,50.17370634485281,Correctly classified,mercadeo virus
+gc_content,47.48921325621959,Correctly classified,parramatta river virus
+gc_content,47.49631811487481,Correctly classified,culiseta flavivirus
+gc_content,51.58030135979419,Correctly classified,xishuangbanna aedes flavivirus
+gc_content,49.39554212315829,Correctly classified,anopheles flavivirus variant 1
+gc_content,49.38740621141609,Correctly classified,anopheles flavivirus variant 2
+gc_content,52.73441151724783,Correctly classified,mosquito flavivirus
+gc_content,52.71571468636066,Correctly classified,mosquito flavivirus
+gc_content,52.83724408712723,Correctly classified,mosquito flavivirus
+gc_content,50.70202808112324,Correctly classified,menghai flavivirus
+gc_content,49.99515080981476,Misclassified,kampung karu virus
+gc_content,49.91044776119404,Correctly classified,la tina virus
+gc_content,49.11465892597968,Correctly classified,marisma mosquito virus
+gc_content,52.95668549905837,Correctly classified,culex flavivirus
+gc_content,51.10029028935293,Correctly classified,cell fusing agent virus
+gc_content,52.716650438169424,Correctly classified,culex flavivirus
+gc_content,51.832702428215306,Correctly classified,psorophora flavivirus
+gc_content,49.45927839984687,Correctly classified,ochlerotatus scapularis flavivirus
+gc_content,49.00201428309833,Correctly classified,mansonia flavivirus
+gc_content,49.97749977499775,Correctly classified,aedes flavivirus
+gc_content,53.02862419205909,Correctly classified,culex flavivirus
+gc_content,51.85116794386483,Correctly classified,psorophora flavivirus
+gc_content,52.101167315175104,Correctly classified,culex theileri flavivirus
+gc_content,52.68334606569901,Correctly classified,culex flavivirus
+gc_content,52.63559969442322,Correctly classified,culex flavivirus
+gc_content,53.170913148595865,Correctly classified,culex flavivirus
+gc_content,51.42295450290207,Correctly classified,cell fusing agent virus
+gc_content,53.04050936606072,Correctly classified,culex flavivirus
+gc_content,52.42530431575064,Correctly classified,quang binh virus
+gc_content,51.85015150123956,Correctly classified,quang binh virus
+gc_content,45.111006140765234,Correctly classified,sabethes flavivirus
+gc_content,51.05646970830217,Correctly classified,cell fusing agent virus
+gc_content,53.08824891193629,Correctly classified,culex flavivirus
+gc_content,49.92725950172759,Correctly classified,aedes flavivirus
+gc_content,49.913925885657335,Correctly classified,aedes flavivirus
+gc_content,51.7895126236937,Correctly classified,quang binh virus
+gc_content,52.14497041420118,Correctly classified,mosquito flavivirus
+gc_content,51.32909022837888,Correctly classified,cell fusing agent virus
+gc_content,51.32909022837888,Correctly classified,cell fusing agent virus
+gc_content,51.36652938974167,Correctly classified,cell fusing agent virus
+gc_content,51.02040816326531,Correctly classified,cell fusing agent virus
+gc_content,52.99437113592322,Correctly classified,culex flavivirus
+gc_content,52.425218591808566,Correctly classified,quang binh virus
+gc_content,50.1355748373102,Correctly classified,aedes flavivirus
+gc_content,48.29024186822352,Misclassified,donggang virus
+gc_content,48.42075840864623,Misclassified,chaoyang virus
+gc_content,52.31605120176812,Correctly classified,mosquito flavivirus
+gc_content,47.48921325621959,Correctly classified,parramatta river virus
+gc_content,50.17370634485281,Correctly classified,mercadeo virus
+gc_content,47.49631811487481,Correctly classified,culiseta flavivirus
+gc_content,49.39554212315829,Correctly classified,anopheles flavivirus variant 1
+gc_content,51.58030135979419,Correctly classified,xishuangbanna aedes flavivirus
+gc_content,49.492548230776265,Misclassified,t ho virus
+gc_content,50.70202808112324,Correctly classified,menghai flavivirus
+gc_content,52.101167315175104,Correctly classified,culex theileri flavivirus
+gc_content,49.99515080981476,Misclassified,kampung karu virus
+gc_content,53.129699248120296,Correctly classified,culex flavivirus
+gc_content,53.40708375941248,Correctly classified,culex flavivirus
+gc_content,47.69820971867008,Correctly classified,kilpisjarvi flavivirus
+gc_content,51.92503000646293,Correctly classified,quang binh virus
+gc_content,51.92361175489014,Correctly classified,quang binh virus
+gc_content,51.86997876073506,Correctly classified,quang binh virus
+gc_content,49.918655097613886,Correctly classified,aedes flavivirus
+gc_content,49.80562336135973,Correctly classified,aedes flavivirus
+gc_content,51.90321079571893,Correctly classified,quang binh virus
+gc_content,51.92396847473343,Correctly classified,quang binh virus
+gc_content,52.38139106402579,Correctly classified,quang binh virus
+gc_content,52.44456814175712,Correctly classified,quang binh virus
+gc_content,52.21674876847291,Correctly classified,quang binh virus
+gc_content,52.92201749488181,Correctly classified,culex flavivirus
+gc_content,49.82727272727273,Correctly classified,aedes flavivirus
+gc_content,52.98638762848413,Correctly classified,culex flavivirus
+gc_content,53.11572700296736,Correctly classified,culex flavivirus
+gc_content,53.10196846720776,Correctly classified,culex flavivirus
+gc_content,51.96886871120171,Correctly classified,quang binh virus

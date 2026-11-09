@@ -1,0 +1,8 @@
+metric,value
+genome-level ISFV recall (point),97.1% (234/241)
+species-clustered bootstrap 95% CI,92.0–99.4%
+naive Wilson 95% CI (genomes independent),94.1–98.6%
+n_bootstrap,10000
+n_species,41
+n_genomes,241
+n_correct,234

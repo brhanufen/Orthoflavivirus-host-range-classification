@@ -1,0 +1,15 @@
+Parameter,Value
+Total genomes,3458
+Total species,299
+Number of genera,4
+Flavivirus (genomes / species),1314 / 91
+Hepacivirus (genomes / species),1398 / 131
+Pestivirus (genomes / species),617 / 40
+Pegivirus (genomes / species),129 / 37
+Class imbalance (max:min),~10:1
+Features,97
+LR Balanced Accuracy (mean ± SD),0.979 ± 0.020
+LR Macro F1 (mean ± SD),0.983 ± 0.014
+RF Balanced Accuracy (mean ± SD),0.980 ± 0.020
+RF Macro F1 (mean ± SD),0.984 ± 0.013
+Random baseline,0.25
